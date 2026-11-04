@@ -1,6 +1,7 @@
 # Echoes of Madrigal - Multibot
 
 <p align="left">
+  <a href="https://github.com/dotjoma/MortisX_EOM/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/dotjoma/MortisX_EOM/ci.yml?branch=main&label=CI&style=for-the-badge" alt="CI Status"></a>
   <a href="https://discord.gg/jxDdPXSUWw"><img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Wails-v2-DF0000?style=for-the-badge&logo=wails&logoColor=white" alt="Wails">
