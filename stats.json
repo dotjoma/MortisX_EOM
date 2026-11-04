@@ -1,0 +1,110 @@
+{
+  "mercenary": {
+    "job": "mercenary",
+    "mode": "cap",
+    "cap_stat": "dex",
+    "cap_value": 43,
+    "then_stat": "str",
+    "auto_stat": 1,
+    "description": "43 DEX Cap (Hit Rate/Aspd threshold), then all STR"
+  },
+  "blade": {
+    "job": "blade",
+    "mode": "cap",
+    "cap_stat": "dex",
+    "cap_value": 43,
+    "then_stat": "str",
+    "auto_stat": 1,
+    "description": "Classic 1v1 Meta: 43 DEX, Rest STR"
+  },
+  "knight": {
+    "job": "knight",
+    "mode": "pure",
+    "cap_stat": "sta",
+    "cap_value": 0,
+    "then_stat": "sta",
+    "auto_stat": 2,
+    "description": "Pure STA (Mega HP Tank & AoE)"
+  },
+  "acrobat": {
+    "job": "acrobat",
+    "mode": "pure",
+    "cap_stat": "dex",
+    "cap_value": 0,
+    "then_stat": "dex",
+    "auto_stat": 3,
+    "description": "Pure DEX (Max Bow & Yoyo Damage, Evasion)"
+  },
+  "jester": {
+    "job": "jester",
+    "mode": "pure",
+    "cap_stat": "dex",
+    "cap_value": 0,
+    "then_stat": "dex",
+    "auto_stat": 3,
+    "description": "Pure DEX (100% Critical Hit Yoyo)"
+  },
+  "ranger": {
+    "job": "ranger",
+    "mode": "pure",
+    "cap_stat": "dex",
+    "cap_value": 0,
+    "then_stat": "dex",
+    "auto_stat": 3,
+    "description": "Pure DEX (Bow AoE Spam)"
+  },
+  "assist": {
+    "job": "assist",
+    "mode": "pure",
+    "cap_stat": "int",
+    "cap_value": 0,
+    "then_stat": "int",
+    "auto_stat": 4,
+    "description": "Pure INT (Max Buff Durations & Heals)"
+  },
+  "ringmaster": {
+    "job": "ringmaster",
+    "mode": "pure",
+    "cap_stat": "int",
+    "cap_value": 0,
+    "then_stat": "int",
+    "auto_stat": 4,
+    "description": "Pure INT (Buffs, Holycross, Heal Potency)"
+  },
+  "billposter": {
+    "job": "billposter",
+    "mode": "pure",
+    "cap_stat": "str",
+    "cap_value": 0,
+    "then_stat": "str",
+    "auto_stat": 1,
+    "description": "Pure STR (Fast 1v1 Solo Leveling)"
+  },
+  "magician": {
+    "job": "magician",
+    "mode": "pure",
+    "cap_stat": "int",
+    "cap_value": 0,
+    "then_stat": "int",
+    "auto_stat": 4,
+    "description": "Pure INT (Spell Burst & Mana Pool)"
+  },
+  "psykeeper": {
+    "job": "psykeeper",
+    "mode": "pure",
+    "cap_stat": "int",
+    "cap_value": 0,
+    "then_stat": "int",
+    "auto_stat": 4,
+    "description": "Pure INT (Spirit Bomb 1-Shot Burst)"
+  },
+  "elementor": {
+    "job": "elementor",
+    "mode": "pure",
+    "cap_stat": "int",
+    "cap_value": 0,
+    "then_stat": "int",
+    "auto_stat": 4,
+    "description": "Pure INT (Elemental AoE Farming)"
+  }
+}

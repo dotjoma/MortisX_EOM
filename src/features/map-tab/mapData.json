@@ -1,0 +1,10319 @@
+{
+  "bounds": {
+    "originX": 1536,
+    "originY": 5120,
+    "texPpm": 0.375,
+    "width": 3264,
+    "height": 1344,
+    "townFlarine": {
+      "tl": [
+        6850.3,
+        -3396.8
+      ],
+      "br": [
+        7259.4,
+        -3125.5
+      ]
+    }
+  },
+  "npcs": [
+    {
+      "name": "Dr. Estern",
+      "key": "MaFl_DrEstern",
+      "x": 7940.8,
+      "z": -2405.9,
+      "shop": false
+    },
+    {
+      "name": "Julia",
+      "key": "MaFl_Juria",
+      "x": 6958.4,
+      "z": -3211.8,
+      "shop": false
+    },
+    {
+      "name": "Lui",
+      "key": "MaFl_Lui",
+      "x": 6975.7,
+      "z": -3266.9,
+      "shop": true
+    },
+    {
+      "name": "Dior",
+      "key": "MaFl_Dior",
+      "x": 6958,
+      "z": -3238.3,
+      "shop": true
+    },
+    {
+      "name": "Is",
+      "key": "MaFl_Is",
+      "x": 6960.1,
+      "z": -3266.1,
+      "shop": false
+    },
+    {
+      "name": "Ismeralda",
+      "key": "MaFl_Ismeralda",
+      "x": 7042.3,
+      "z": -3244.3,
+      "shop": false
+    },
+    {
+      "name": "Ispim",
+      "key": "MaFl_Ispim",
+      "x": 7160.1,
+      "z": -3221.5,
+      "shop": false
+    },
+    {
+      "name": "Isruel",
+      "key": "MaFl_Isruel",
+      "x": 6937.8,
+      "z": -3243.3,
+      "shop": true
+    },
+    {
+      "name": "Boboku",
+      "key": "MaFl_Boboku",
+      "x": 6926.1,
+      "z": -3232.1,
+      "shop": true
+    },
+    {
+      "name": "Boboko",
+      "key": "MaFl_Boboko",
+      "x": 6926.5,
+      "z": -3229.6,
+      "shop": true
+    },
+    {
+      "name": "Jeff",
+      "key": "MaFl_Jeff",
+      "x": 6954.7,
+      "z": -3274.1,
+      "shop": false
+    },
+    {
+      "name": "Mikyel",
+      "key": "MaFl_Mikyel",
+      "x": 7129.2,
+      "z": -3252.5,
+      "shop": false
+    },
+    {
+      "name": "Noier",
+      "key": "MaFl_Noier",
+      "x": 6703.3,
+      "z": -3327.8,
+      "shop": false
+    },
+    {
+      "name": "Luda",
+      "key": "MaFl_Luda",
+      "x": 6927.3,
+      "z": -3236.5,
+      "shop": true
+    },
+    {
+      "name": "[Mercenary Trainer] Zandark",
+      "key": "MaFl_Zandark",
+      "x": 7152.1,
+      "z": -3244.5,
+      "shop": false
+    },
+    {
+      "name": "[Mercenary Instructor]Hyuit",
+      "key": "MaFl_Hyuit",
+      "x": 7152.5,
+      "z": -3242.4,
+      "shop": false
+    },
+    {
+      "name": "[Assist Instructor]Kidmen",
+      "key": "MaFl_Kidmen",
+      "x": 7156.2,
+      "z": -3250.2,
+      "shop": false
+    },
+    {
+      "name": "[Public Official of Flarine]",
+      "key": "MaFl_Official",
+      "x": 6960.4,
+      "z": -3204.3,
+      "shop": false
+    },
+    {
+      "name": "[Historian]Martinyc",
+      "key": "MaFl_Martinyc",
+      "x": 6998.8,
+      "z": -3203.1,
+      "shop": false
+    },
+    {
+      "name": "[Dradpet Manager]Himadel",
+      "key": "MaFl_Himadel",
+      "x": 6836,
+      "z": -3132.6,
+      "shop": false
+    },
+    {
+      "name": "[Novelist]Gergantes",
+      "key": "MaFl_Gergantes",
+      "x": 6960.1,
+      "z": -3339.7,
+      "shop": false
+    },
+    {
+      "name": "Ata",
+      "key": "MaFl_Ata",
+      "x": 6703.6,
+      "z": -3326.8,
+      "shop": false
+    },
+    {
+      "name": "Post Box",
+      "key": "MaFl_Postbox",
+      "x": 6957.5,
+      "z": -3211.7,
+      "shop": false
+    },
+    {
+      "name": "PetTamer",
+      "key": "MaFl_PetTamer",
+      "x": 6989.6,
+      "z": -3256.1,
+      "shop": true
+    },
+    {
+      "name": "Makeup Artist",
+      "key": "MaFl_FaceOff",
+      "x": 6961.3,
+      "z": -3349.8,
+      "shop": false
+    },
+    {
+      "name": "Hair Designer",
+      "key": "MaFl_HairShop",
+      "x": 6958.2,
+      "z": -3350,
+      "shop": false
+    },
+    {
+      "name": "[Upgrade Specialist] BoBoChan",
+      "key": "MaFl_Bobochan",
+      "x": 6927.5,
+      "z": -3227,
+      "shop": true
+    },
+    {
+      "name": "Ray",
+      "key": "MaFl_Ray",
+      "x": 6932.1,
+      "z": -3259.2,
+      "shop": false
+    },
+    {
+      "name": "[Red Chip Merchant]Wafor",
+      "key": "MaFl_Waforu",
+      "x": 6982.5,
+      "z": -3351.1,
+      "shop": false
+    },
+    {
+      "name": "[Collecting Manager]Collins",
+      "key": "MaFl_COLINSE",
+      "x": 6944,
+      "z": -3101.1,
+      "shop": true
+    },
+    {
+      "name": "Charlie",
+      "key": "Mafl_Charlie",
+      "x": 6989.7,
+      "z": -3231.3,
+      "shop": false
+    },
+    {
+      "name": "CardMaster",
+      "key": "MaFl_CardMaster",
+      "x": 7130.3,
+      "z": -3257.2,
+      "shop": false
+    },
+    {
+      "name": "Peach",
+      "key": "MaFl_Peach",
+      "x": 6930.7,
+      "z": -3226,
+      "shop": true
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper_ver12",
+      "x": 6971.2,
+      "z": -3215.2,
+      "shop": false
+    },
+    {
+      "name": "Forsaken Tower Manager",
+      "key": "MaFl_HEAVENMAN",
+      "x": 6982.6,
+      "z": -3306.9,
+      "shop": false
+    },
+    {
+      "name": "Valor Chip Merchant",
+      "key": "MaFl_SecretRoom_EAST",
+      "x": 6960.9,
+      "z": -3211.7,
+      "shop": true
+    },
+    {
+      "name": "[Guild Siege Manager]Frankie",
+      "key": "MaFl_GuildWar",
+      "x": 6988.3,
+      "z": -3333.1,
+      "shop": false
+    },
+    {
+      "name": "[Guild Siege Manager]Donaris",
+      "key": "MaFl_Donaris",
+      "x": 6988.4,
+      "z": -3329.4,
+      "shop": false
+    },
+    {
+      "name": "[Mayor of Flarine]",
+      "key": "MaFl_FlaMayor",
+      "x": 6960.5,
+      "z": -3227.8,
+      "shop": false
+    },
+    {
+      "name": "[Guild House Manager] Bertha",
+      "key": "MaFl_GUILDHOUSESALE",
+      "x": 6947.8,
+      "z": -3274.5,
+      "shop": false
+    },
+    {
+      "name": "[Assist Trainer] Asis",
+      "key": "MaFl_Asis",
+      "x": 7154.1,
+      "z": -3249.1,
+      "shop": false
+    },
+    {
+      "name": "[Acrobat Trainer]Tailer",
+      "key": "MaDa_Tailer",
+      "x": 7167.1,
+      "z": -3245.1,
+      "shop": false
+    },
+    {
+      "name": "[Acrobat Trainer] Thunder",
+      "key": "MaFl_Ssunder",
+      "x": 7167.5,
+      "z": -3243.2,
+      "shop": false
+    },
+    {
+      "name": "[Magician Trainer] Masics",
+      "key": "MaFl_Masics",
+      "x": 7165.8,
+      "z": -3239.8,
+      "shop": false
+    },
+    {
+      "name": "[Magician Trainer] Ringda",
+      "key": "MaFl_Ringda",
+      "x": 7164.1,
+      "z": -3238.8,
+      "shop": false
+    },
+    {
+      "name": "[Acrobat Master] Pire",
+      "key": "MaFl_Pire",
+      "x": 6929.7,
+      "z": -3327.5,
+      "shop": false
+    },
+    {
+      "name": "[Assist Master]Maki",
+      "key": "MaFl_Maki",
+      "x": 6930,
+      "z": -3325.4,
+      "shop": false
+    },
+    {
+      "name": "[Magician Master] Ria",
+      "key": "MaFl_Ria",
+      "x": 6929.4,
+      "z": -3329.4,
+      "shop": false
+    },
+    {
+      "name": "CostumeNerupa",
+      "key": "Mafl_CostumeNerupa",
+      "x": 7158.7,
+      "z": -3238.1,
+      "shop": false
+    },
+    {
+      "name": "Marche",
+      "key": "MaFl_Marche",
+      "x": 7169.2,
+      "z": -3271.2,
+      "shop": true
+    },
+    {
+      "name": "Losha",
+      "key": "MaFl_Losha",
+      "x": 7172.4,
+      "z": -3212.4,
+      "shop": true
+    },
+    {
+      "name": "Rudvihil",
+      "key": "MaFl_Rudvihil",
+      "x": 7219,
+      "z": -3190.6,
+      "shop": false
+    },
+    {
+      "name": "Loyah",
+      "key": "MaFl_Loyah",
+      "x": 7169.4,
+      "z": -3209,
+      "shop": false
+    },
+    {
+      "name": "SsoTta",
+      "key": "MaFl_SsoTta",
+      "x": 7179.4,
+      "z": -3216.3,
+      "shop": false
+    },
+    {
+      "name": "Teshar",
+      "key": "MaFl_Teshar",
+      "x": 7202.4,
+      "z": -3228.8,
+      "shop": false
+    },
+    {
+      "name": "Ghalade",
+      "key": "MaFl_Ghalade",
+      "x": 7204.4,
+      "z": -3227.9,
+      "shop": false
+    },
+    {
+      "name": "Phoho",
+      "key": "MaFl_Phoho",
+      "x": 7204.2,
+      "z": -3229.8,
+      "shop": false
+    },
+    {
+      "name": "Eoners",
+      "key": "MaFl_Eoners",
+      "x": 7204.6,
+      "z": -3226.7,
+      "shop": false
+    },
+    {
+      "name": "Tomba",
+      "key": "MaFl_Tomba",
+      "x": 7203.2,
+      "z": -3231.4,
+      "shop": false
+    },
+    {
+      "name": "Lia",
+      "key": "MaFl_JULIAEVENT",
+      "x": 7168.2,
+      "z": -3208.9,
+      "shop": false
+    },
+    {
+      "name": "Hachal",
+      "key": "MaDa_CloneHachal",
+      "x": 6552.2,
+      "z": -3618.5,
+      "shop": false
+    },
+    {
+      "name": "Priest of Confession",
+      "key": "MaMa_PKNPC01",
+      "x": 6589.8,
+      "z": -3822,
+      "shop": false
+    },
+    {
+      "name": "[MagicBox] Ancimys",
+      "key": "MaMa_Ancimys",
+      "x": 6955.5,
+      "z": -3848.4,
+      "shop": false
+    },
+    {
+      "name": "[High-Dwarpet]Tucani",
+      "key": "MaFl_Tucani",
+      "x": 6995,
+      "z": -3897,
+      "shop": false
+    },
+    {
+      "name": "[High-Dwarpet]Langdrong",
+      "key": "MaFl_Langdrong",
+      "x": 6998.5,
+      "z": -3897.5,
+      "shop": false
+    },
+    {
+      "name": "[High-Dwarpet]Goripeg",
+      "key": "MaFl_Goripeg",
+      "x": 6991.9,
+      "z": -3891.9,
+      "shop": false
+    },
+    {
+      "name": "[High-Dwarpet]Hastan",
+      "key": "MaFl_Hastan",
+      "x": 7002,
+      "z": -3895,
+      "shop": false
+    },
+    {
+      "name": "Ancimys",
+      "key": "MaFl_Ancimys",
+      "x": 7036.4,
+      "z": -3728.5,
+      "shop": false
+    },
+    {
+      "name": "Kurmin",
+      "key": "MaFl_Kurumin",
+      "x": 6691.4,
+      "z": -3619.1,
+      "shop": false
+    },
+    {
+      "name": "Dr. Estly",
+      "key": "MaFl_DrEstly",
+      "x": 7186.8,
+      "z": -4090.6,
+      "shop": false
+    },
+    {
+      "name": "[Dradpet Manager]Gornus",
+      "key": "MaFl_Gornus",
+      "x": 7453.9,
+      "z": -3670.8,
+      "shop": false
+    },
+    {
+      "name": "Ryupang",
+      "key": "MaFl_Ryupang",
+      "x": 7214.2,
+      "z": -3673.5,
+      "shop": false
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper",
+      "x": 7351.1,
+      "z": -3926.2,
+      "shop": false
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper_ver12",
+      "x": 7340.9,
+      "z": -3933.2,
+      "shop": false
+    },
+    {
+      "name": "[Dradpet Manager]Kanane",
+      "key": "MaFl_Kanane",
+      "x": 7741,
+      "z": -4074.9,
+      "shop": false
+    },
+    {
+      "name": "Colar",
+      "key": "MaDa_Colar",
+      "x": 6133.4,
+      "z": -4168.8,
+      "shop": false
+    },
+    {
+      "name": "Esof the 4th",
+      "key": "MaDa_Esof",
+      "x": 5852.8,
+      "z": -4316.9,
+      "shop": false
+    },
+    {
+      "name": "Elaine",
+      "key": "MaFl_ELLAIN",
+      "x": 5776.2,
+      "z": -4206.2,
+      "shop": false
+    },
+    {
+      "name": "Zoro",
+      "key": "MaFl_ZORO",
+      "x": 6082.3,
+      "z": -4224.7,
+      "shop": false
+    },
+    {
+      "name": "[Sage] Radion",
+      "key": "MaFl_SgRadion",
+      "x": 7640.5,
+      "z": -4254.3,
+      "shop": false
+    },
+    {
+      "name": "[Sage]Radyon",
+      "key": "MaFl_Radyon",
+      "x": 7635.7,
+      "z": -4227.7,
+      "shop": false
+    },
+    {
+      "name": "[Sage]Kimel",
+      "key": "MaFl_Kimel",
+      "x": 7636,
+      "z": -4226.4,
+      "shop": false
+    },
+    {
+      "name": "[Knight Wise-man]Hormes",
+      "key": "MaFl_Hormes",
+      "x": 7677.9,
+      "z": -4250.4,
+      "shop": false
+    },
+    {
+      "name": "[Blade Wise-man]Guabrill",
+      "key": "MaFl_Guabrill",
+      "x": 7679.1,
+      "z": -4250.1,
+      "shop": false
+    },
+    {
+      "name": "[Elementor Wise-man]Cuzrill",
+      "key": "MaFl_Cuzrill",
+      "x": 7655.6,
+      "z": -4191.6,
+      "shop": false
+    },
+    {
+      "name": "[Psykeeper Wise-man]Cuarine",
+      "key": "MaFl_Cuarine",
+      "x": 7657.6,
+      "z": -4191.5,
+      "shop": false
+    },
+    {
+      "name": "Segho",
+      "key": "MaFl_Segho",
+      "x": 7644.8,
+      "z": -4349.1,
+      "shop": false
+    },
+    {
+      "name": "[Billposter Wise-man]Domek",
+      "key": "MaFl_Domek",
+      "x": 7693.4,
+      "z": -4227.5,
+      "shop": false
+    },
+    {
+      "name": "[Ringmaster Wise-man]Clamb",
+      "key": "MaFl_Clamb",
+      "x": 7693.3,
+      "z": -4225.9,
+      "shop": false
+    },
+    {
+      "name": "Hael",
+      "key": "MaFl_HAEL",
+      "x": 7686.1,
+      "z": -4209,
+      "shop": false
+    },
+    {
+      "name": "Priest of Confession",
+      "key": "MaMa_PKNPC01",
+      "x": 8247.3,
+      "z": -2525.6,
+      "shop": false
+    },
+    {
+      "name": "Mayun",
+      "key": "MaSa_MaYun",
+      "x": 8197.7,
+      "z": -2805.7,
+      "shop": false
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper",
+      "x": 8279,
+      "z": -2812.2,
+      "shop": false
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper_ver12",
+      "x": 8279.3,
+      "z": -2810.5,
+      "shop": false
+    },
+    {
+      "name": "Nerco",
+      "key": "MaFl_NERCO",
+      "x": 8203.6,
+      "z": -2981.2,
+      "shop": false
+    },
+    {
+      "name": "[MagicBox] Ancimys",
+      "key": "MaMa_Ancimys",
+      "x": 8638,
+      "z": -3569.6,
+      "shop": false
+    },
+    {
+      "name": "Heltung",
+      "key": "MaSa_Heltung",
+      "x": 8447.5,
+      "z": -3576.3,
+      "shop": false
+    },
+    {
+      "name": "[Manager of Ancient Document]Rovanett",
+      "key": "MaSa_Rovanett",
+      "x": 8439.9,
+      "z": -3547.7,
+      "shop": false
+    },
+    {
+      "name": "[Colosseum Manager] Marcario",
+      "key": "MAFL_COLONPC",
+      "x": 8529.6,
+      "z": -3476.6,
+      "shop": false
+    },
+    {
+      "name": "[Token Vendor] Rambo",
+      "key": "MaFl_OLDCHAMPION",
+      "x": 8529.3,
+      "z": -3474.4,
+      "shop": false
+    },
+    {
+      "name": "Helena",
+      "key": "MaSa_Helena",
+      "x": 8463.5,
+      "z": -3600.8,
+      "shop": false
+    },
+    {
+      "name": "Leann",
+      "key": "MaSa_Leann",
+      "x": 8478.1,
+      "z": -3634.1,
+      "shop": true
+    },
+    {
+      "name": "Karin",
+      "key": "MaSa_Karin",
+      "x": 8359.3,
+      "z": -3640.2,
+      "shop": true
+    },
+    {
+      "name": "Janne",
+      "key": "MaSa_Janne",
+      "x": 8536.5,
+      "z": -3643.7,
+      "shop": false
+    },
+    {
+      "name": "Kimberley",
+      "key": "MaSa_Kimberley",
+      "x": 8374.7,
+      "z": -3659.5,
+      "shop": false
+    },
+    {
+      "name": "Bozman",
+      "key": "MaSa_Bozman",
+      "x": 8375.1,
+      "z": -3673.2,
+      "shop": true
+    },
+    {
+      "name": "Bulrox",
+      "key": "MaSa_Bulrox",
+      "x": 8372.6,
+      "z": -3671.6,
+      "shop": true
+    },
+    {
+      "name": "Ann",
+      "key": "MaSa_Ann",
+      "x": 8462,
+      "z": -3709.8,
+      "shop": false
+    },
+    {
+      "name": "Herth",
+      "key": "MaSa_Herth",
+      "x": 8360.6,
+      "z": -3751,
+      "shop": false
+    },
+    {
+      "name": "Tina",
+      "key": "MaSa_Tina",
+      "x": 8413,
+      "z": -3974.4,
+      "shop": true
+    },
+    {
+      "name": "Martin",
+      "key": "MaSa_Martin",
+      "x": 8315.5,
+      "z": -3728.6,
+      "shop": true
+    },
+    {
+      "name": "Bill",
+      "key": "MaSa_Bill",
+      "x": 8410.2,
+      "z": -3680.8,
+      "shop": true
+    },
+    {
+      "name": "[Pepoview] Brodeay",
+      "key": "MaSa_Brodeay",
+      "x": 8404,
+      "z": -3657.7,
+      "shop": false
+    },
+    {
+      "name": "[Pepoview] Ruminerr",
+      "key": "MaSa_Troupemember1",
+      "x": 8386.9,
+      "z": -3651.9,
+      "shop": false
+    },
+    {
+      "name": "[Pepoview] Ellangdl",
+      "key": "MaSa_Troupemember2",
+      "x": 8396.1,
+      "z": -3655.7,
+      "shop": false
+    },
+    {
+      "name": "[Pepoview] Hotse",
+      "key": "MaSa_Troupemember3",
+      "x": 8398.1,
+      "z": -3657.5,
+      "shop": false
+    },
+    {
+      "name": "[Pepoview] Vianlee",
+      "key": "MaSa_Troupemember4",
+      "x": 8396.9,
+      "z": -3654.5,
+      "shop": false
+    },
+    {
+      "name": "[Pepoview] Clackcable",
+      "key": "MaSa_Troupemember5",
+      "x": 8385.1,
+      "z": -3653.7,
+      "shop": false
+    },
+    {
+      "name": "Lancomi",
+      "key": "MaSa_Lancomi",
+      "x": 8480.7,
+      "z": -3660.4,
+      "shop": false
+    },
+    {
+      "name": "Colack",
+      "key": "MaSa_Colack",
+      "x": 8369.5,
+      "z": -3675.5,
+      "shop": true
+    },
+    {
+      "name": "[Magician Master]Hee",
+      "key": "MaSa_Hee",
+      "x": 8341.1,
+      "z": -3750.6,
+      "shop": false
+    },
+    {
+      "name": "[Magician Drillmaster]Wingyei",
+      "key": "MaSa_Wingyei",
+      "x": 8483.7,
+      "z": -3810.3,
+      "shop": false
+    },
+    {
+      "name": "[Magician Instructor]Lopaze",
+      "key": "MaSa_Lopaze",
+      "x": 8481.5,
+      "z": -3810.4,
+      "shop": false
+    },
+    {
+      "name": "Helgar",
+      "key": "MaSa_Helgar",
+      "x": 8449.1,
+      "z": -3638.1,
+      "shop": false
+    },
+    {
+      "name": "Strange Collector",
+      "key": "MaSa_QueerCollector",
+      "x": 8383.2,
+      "z": -4085.2,
+      "shop": false
+    },
+    {
+      "name": "JeongHwa",
+      "key": "MaSa_JeongHwa",
+      "x": 8334.9,
+      "z": -3713.4,
+      "shop": false
+    },
+    {
+      "name": "Porgo",
+      "key": "MaSa_Porgo",
+      "x": 8532.4,
+      "z": -3607.5,
+      "shop": false
+    },
+    {
+      "name": "[Chairman of History Society]Gothante",
+      "key": "MaSa_Gothante",
+      "x": 8353,
+      "z": -3983.7,
+      "shop": false
+    },
+    {
+      "name": "Parine",
+      "key": "MaSa_Parine",
+      "x": 8414.3,
+      "z": -3974.8,
+      "shop": false
+    },
+    {
+      "name": "Post Box",
+      "key": "MaFl_Postbox",
+      "x": 8462.6,
+      "z": -3600.3,
+      "shop": false
+    },
+    {
+      "name": "[Pet Tamer]",
+      "key": "MaFl_PetTamer",
+      "x": 8465.4,
+      "z": -3622.9,
+      "shop": true
+    },
+    {
+      "name": "[Collecting Manager]Collins",
+      "key": "MaFl_COLINSE",
+      "x": 8636.3,
+      "z": -3738.5,
+      "shop": true
+    },
+    {
+      "name": "Ray",
+      "key": "MaFl_Ray",
+      "x": 8437.9,
+      "z": -3616,
+      "shop": false
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper_ver12",
+      "x": 8444.2,
+      "z": -3602.3,
+      "shop": false
+    },
+    {
+      "name": "[Mayor of SainCity]",
+      "key": "MaSa_SainMayor",
+      "x": 8464.1,
+      "z": -3652,
+      "shop": false
+    },
+    {
+      "name": "[Guild House Manager] Bertha",
+      "key": "MaSa_GUILDHOUSESALEROA",
+      "x": 8464.6,
+      "z": -3643.5,
+      "shop": false
+    },
+    {
+      "name": "Luzina",
+      "key": "MaSa_LUZINA",
+      "x": 8350.4,
+      "z": -3690.8,
+      "shop": false
+    },
+    {
+      "name": "Nersha",
+      "key": "MaSa_NERCHA",
+      "x": 8356,
+      "z": -3702,
+      "shop": false
+    },
+    {
+      "name": "[Bowl Merchant]Bowler",
+      "key": "MaSa_Bowler",
+      "x": 9560.3,
+      "z": -4020,
+      "shop": false
+    },
+    {
+      "name": "Handel",
+      "key": "MaFl_HENDEL",
+      "x": 9007,
+      "z": -4367.2,
+      "shop": false
+    },
+    {
+      "name": "Hachal",
+      "key": "MaDa_Hachal",
+      "x": 5535.9,
+      "z": -3462.2,
+      "shop": false
+    },
+    {
+      "name": "Rankashu",
+      "key": "MaDa_Rankashu",
+      "x": 5072.6,
+      "z": -3962.5,
+      "shop": false
+    },
+    {
+      "name": "Stima",
+      "key": "MaDa_Stima",
+      "x": 5572.4,
+      "z": -3897.2,
+      "shop": true
+    },
+    {
+      "name": "Phacham",
+      "key": "MaDa_Phacham",
+      "x": 5580.7,
+      "z": -3901.8,
+      "shop": true
+    },
+    {
+      "name": "[MagicBox] Ancimys",
+      "key": "MaMa_Ancimys",
+      "x": 5370.7,
+      "z": -3991.3,
+      "shop": false
+    },
+    {
+      "name": "Cell",
+      "key": "MaDa_Cell",
+      "x": 5561.1,
+      "z": -3909.1,
+      "shop": false
+    },
+    {
+      "name": "Amadolka",
+      "key": "MaDa_Amadolka",
+      "x": 5600.7,
+      "z": -3767.3,
+      "shop": false
+    },
+    {
+      "name": "[Pet Tamer]",
+      "key": "MaFl_PetTamer",
+      "x": 5569.2,
+      "z": -3899,
+      "shop": true
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper_ver12",
+      "x": 5576.8,
+      "z": -3897.4,
+      "shop": false
+    },
+    {
+      "name": "Reodos",
+      "key": "MaFl_REODOS",
+      "x": 4297.1,
+      "z": -4291.8,
+      "shop": false
+    },
+    {
+      "name": "Dr. Est",
+      "key": "MaDa_DrEst",
+      "x": 5541.3,
+      "z": -4352.4,
+      "shop": false
+    },
+    {
+      "name": "Priest of Confession",
+      "key": "MaMa_PKNPC01",
+      "x": 5482.9,
+      "z": -4362.7,
+      "shop": false
+    },
+    {
+      "name": "Sanpres",
+      "key": "MASP_SANPRES",
+      "x": 6590.1,
+      "z": -5084.9,
+      "shop": false
+    },
+    {
+      "name": "Eshylop",
+      "key": "MaDa_CloneEshylop",
+      "x": 3889.9,
+      "z": -3923.5,
+      "shop": false
+    },
+    {
+      "name": "Eshylop",
+      "key": "MaDa_Eshylop",
+      "x": 3890,
+      "z": -4145.8,
+      "shop": false
+    },
+    {
+      "name": "Remine",
+      "key": "MaDa_Remine",
+      "x": 3748.6,
+      "z": -4412.3,
+      "shop": true
+    },
+    {
+      "name": "Ollien",
+      "key": "MaDa_Ollien",
+      "x": 3829.8,
+      "z": -4457.2,
+      "shop": false
+    },
+    {
+      "name": "Almani",
+      "key": "MaDa_Almani",
+      "x": 3846.7,
+      "z": -4443,
+      "shop": true
+    },
+    {
+      "name": "Achaben",
+      "key": "MaDa_Achaben",
+      "x": 3879.9,
+      "z": -4458.1,
+      "shop": true
+    },
+    {
+      "name": "Haven",
+      "key": "MaDa_Haven",
+      "x": 3908.9,
+      "z": -4376,
+      "shop": true
+    },
+    {
+      "name": "Bolpor",
+      "key": "MaDa_Bolpor",
+      "x": 3831.7,
+      "z": -4356.6,
+      "shop": true
+    },
+    {
+      "name": "Lurif",
+      "key": "MaDa_Lurif",
+      "x": 3841.5,
+      "z": -4422.9,
+      "shop": false
+    },
+    {
+      "name": "Krinton",
+      "key": "MaDa_Krinton",
+      "x": 3742.2,
+      "z": -4413.7,
+      "shop": true
+    },
+    {
+      "name": "[High-Dwarpet]Liekyen",
+      "key": "MaDa_Liekyen",
+      "x": 3733.9,
+      "z": -4525.8,
+      "shop": false
+    },
+    {
+      "name": "Bernard",
+      "key": "MaDa_Bernard",
+      "x": 3827,
+      "z": -4548.5,
+      "shop": false
+    },
+    {
+      "name": "[Billposter Master]Ride",
+      "key": "MaDa_Ride",
+      "x": 3788.1,
+      "z": -4481.2,
+      "shop": false
+    },
+    {
+      "name": "[Psykeeper Master]Cylor",
+      "key": "MaDa_Cylor",
+      "x": 3781.5,
+      "z": -4485,
+      "shop": false
+    },
+    {
+      "name": "[Knight Master]Karandur",
+      "key": "MaDa_Karanduru",
+      "x": 3793.5,
+      "z": -4482.5,
+      "shop": false
+    },
+    {
+      "name": "[Blade Master]Corel",
+      "key": "MaDa_Corel",
+      "x": 3796.3,
+      "z": -4487.3,
+      "shop": false
+    },
+    {
+      "name": "[Ringmaster Master]Ellend",
+      "key": "MaDa_Ellend",
+      "x": 3798.5,
+      "z": -4491,
+      "shop": false
+    },
+    {
+      "name": "[Elementor Master]Horison",
+      "key": "MaDa_Horison",
+      "x": 3795.2,
+      "z": -4498.3,
+      "shop": false
+    },
+    {
+      "name": "[Jester Master]Lorein",
+      "key": "MaDa_Lorein",
+      "x": 3784.6,
+      "z": -4490.2,
+      "shop": false
+    },
+    {
+      "name": "[Ranger Master]Eliff",
+      "key": "MaDa_Eliff",
+      "x": 3790.9,
+      "z": -4493,
+      "shop": false
+    },
+    {
+      "name": "[Darken Mayor]",
+      "key": "MaDa_DarMayor",
+      "x": 3831.7,
+      "z": -4457.4,
+      "shop": false
+    },
+    {
+      "name": "Post Box",
+      "key": "MaFl_Postbox",
+      "x": 3834.1,
+      "z": -4456.5,
+      "shop": false
+    },
+    {
+      "name": "Rocky",
+      "key": "MaDa_Roocky",
+      "x": 3742.8,
+      "z": -4419.6,
+      "shop": true
+    },
+    {
+      "name": "[Pet Tamer]",
+      "key": "MaFl_PetTamer",
+      "x": 3824.4,
+      "z": -4462,
+      "shop": true
+    },
+    {
+      "name": "Ray",
+      "key": "MaFl_Ray",
+      "x": 3801.5,
+      "z": -4448.1,
+      "shop": false
+    },
+    {
+      "name": "Secret Room Manager",
+      "key": "MaDa_SecretRoom_WEST",
+      "x": 3827,
+      "z": -4459.6,
+      "shop": true
+    },
+    {
+      "name": "Buff Pang",
+      "key": "MaFl_Helper_ver12",
+      "x": 3794,
+      "z": -4444.6,
+      "shop": false
+    },
+    {
+      "name": "Alice",
+      "key": "MaFl_Alice",
+      "x": 3835.3,
+      "z": -4455.1,
+      "shop": false
+    },
+    {
+      "name": "[Upgrade Expert] Radyan",
+      "key": "MaDa_Laydian",
+      "x": 3743.4,
+      "z": -4424.4,
+      "shop": false
+    },
+    {
+      "name": "[Collecting Manager]Collins",
+      "key": "MaFl_COLINSE",
+      "x": 3851.2,
+      "z": -4660.1,
+      "shop": true
+    },
+    {
+      "name": "[Elementor Priest]Condram",
+      "key": "MaDa_Condram",
+      "x": 3959.8,
+      "z": -3510.1,
+      "shop": false
+    },
+    {
+      "name": "[Ranger Priest]Rupim",
+      "key": "MaDa_Rupim",
+      "x": 3170.9,
+      "z": -3644.5,
+      "shop": false
+    },
+    {
+      "name": "[Ringmaster Priest]Heedan",
+      "key": "MaDa_Heedan",
+      "x": 3273.1,
+      "z": -4250.1,
+      "shop": false
+    },
+    {
+      "name": "Nein",
+      "key": "MaDa_Nein",
+      "x": 3947.3,
+      "z": -2748.4,
+      "shop": false
+    },
+    {
+      "name": "Sury",
+      "key": "MaFl_SURY",
+      "x": 3615.3,
+      "z": -3003.6,
+      "shop": false
+    },
+    {
+      "name": "Mysterious Robe boy",
+      "key": "MaDa_RedRobeMan",
+      "x": 3344,
+      "z": -1859.3,
+      "shop": false
+    },
+    {
+      "name": "Raila",
+      "key": "MAHE_RAILA",
+      "x": 2030.5,
+      "z": -2272.5,
+      "shop": false
+    },
+    {
+      "name": "[Knight Guardian]Boneper",
+      "key": "MaDa_Boneper",
+      "x": 3344,
+      "z": -2071.1,
+      "shop": false
+    },
+    {
+      "name": "[Blade Guardian]Sencyrit",
+      "key": "MaDa_Sencyrit",
+      "x": 3344,
+      "z": -2056.1,
+      "shop": false
+    },
+    {
+      "name": "[Psykeeper Guardian]Shyniff",
+      "key": "MaDa_Shyniff",
+      "x": 3349,
+      "z": -2068.7,
+      "shop": false
+    },
+    {
+      "name": "[Ringmaster Guardian]Romvoette",
+      "key": "MaDa_Romvoette",
+      "x": 3339.1,
+      "z": -2058.5,
+      "shop": false
+    },
+    {
+      "name": "[Elementor Guardian]Wendien",
+      "key": "MaDa_Wendien",
+      "x": 3348.8,
+      "z": -2058.5,
+      "shop": false
+    },
+    {
+      "name": "[Billposter Guardian]Capafe",
+      "key": "MaDa_Capafe",
+      "x": 3339.1,
+      "z": -2068.7,
+      "shop": false
+    },
+    {
+      "name": "[Jester Guardian]Heingard",
+      "key": "MaDa_Heingard",
+      "x": 3336.7,
+      "z": -2063.7,
+      "shop": false
+    },
+    {
+      "name": "[Ranger Guardian]Kailreard",
+      "key": "MaDa_Kailreard",
+      "x": 3351.4,
+      "z": -2063.7,
+      "shop": false
+    },
+    {
+      "name": "Raelra",
+      "key": "MAHE_RAELRA",
+      "x": 1839,
+      "z": -2757.8,
+      "shop": false
+    },
+    {
+      "name": "[Knight Priest]Lobiet",
+      "key": "MaDa_Lobiet",
+      "x": 3013,
+      "z": -2931.4,
+      "shop": false
+    },
+    {
+      "name": "[Jester Priest]Homeit",
+      "key": "MaDa_Homeit",
+      "x": 2788.1,
+      "z": -2885.3,
+      "shop": false
+    },
+    {
+      "name": "[Blade Priest]Jeperdy",
+      "key": "MaDa_Jeperdy",
+      "x": 3526.8,
+      "z": -2792,
+      "shop": false
+    },
+    {
+      "name": "Chenbing",
+      "key": "MaDa_Chenbing",
+      "x": 3238.2,
+      "z": -3421,
+      "shop": true
+    },
+    {
+      "name": "Kablloc",
+      "key": "MaDa_Kablloc",
+      "x": 3240,
+      "z": -3417.7,
+      "shop": true
+    },
+    {
+      "name": "Tandy",
+      "key": "MaDa_Tandy",
+      "x": 3202.7,
+      "z": -3437.8,
+      "shop": true
+    },
+    {
+      "name": "Jinitte",
+      "key": "MaDa_Jinitte",
+      "x": 3208.4,
+      "z": -3437.3,
+      "shop": true
+    },
+    {
+      "name": "[Billposter Priest]Fera",
+      "key": "MaDa_Fera",
+      "x": 3524.2,
+      "z": -3547.3,
+      "shop": false
+    },
+    {
+      "name": "Andre",
+      "key": "MaDa_Andre",
+      "x": 2991.3,
+      "z": -4063.5,
+      "shop": false
+    },
+    {
+      "name": "[Great Magician]Laola",
+      "key": "MaDa_Laloa",
+      "x": 3007.9,
+      "z": -3967.4,
+      "shop": false
+    },
+    {
+      "name": "[Psykeeper Priest]Pereb",
+      "key": "MaDa_Pereb",
+      "x": 2522.3,
+      "z": -4599.9,
+      "shop": false
+    },
+    {
+      "name": "Quest Board",
+      "key": "MaFl_Parabellum",
+      "x": 6982.6,
+      "z": -3306.9,
+      "shop": false
+    }
+  ],
+  "monsterAreas": [
+    {
+      "mi": "MI_HOBO1",
+      "name": "Small Hobo",
+      "lv": 35,
+      "x": 8123,
+      "z": -1931,
+      "r": 71,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO2",
+      "name": "Hobo",
+      "lv": 35,
+      "x": 8023,
+      "z": -1976.5,
+      "r": 50.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8102.5,
+      "z": -1882,
+      "r": 18,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_ROCKMUSCLE2",
+      "name": "Rock Muscle",
+      "lv": 33,
+      "x": 8336,
+      "z": -2029,
+      "r": 53,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_ROCKMUSCLE3",
+      "name": "Captain Rock Muscle",
+      "lv": 34,
+      "x": 8237,
+      "z": -1977,
+      "r": 45,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_ROCKMUSCLE3",
+      "name": "Captain Rock Muscle",
+      "lv": 34,
+      "x": 8323.5,
+      "z": -1906.5,
+      "r": 70.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_ROCKMUSCLE4",
+      "name": "Giant Rock Muscle",
+      "lv": 37,
+      "x": 8283,
+      "z": -1937,
+      "r": 85,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BUCROW1",
+      "name": "Small Bucrow",
+      "lv": 33,
+      "x": 8667,
+      "z": -2028.5,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW2",
+      "name": "Bucrow",
+      "lv": 33,
+      "x": 8666.5,
+      "z": -2030.5,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW3",
+      "name": "Captain Bucrow",
+      "lv": 34,
+      "x": 8667,
+      "z": -2029,
+      "r": 20,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8372,
+      "z": -2040,
+      "r": 24,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW1",
+      "name": "Small Bucrow",
+      "lv": 33,
+      "x": 8733.5,
+      "z": -2028.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW1",
+      "name": "Small Bucrow",
+      "lv": 33,
+      "x": 8803,
+      "z": -2035,
+      "r": 22,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW2",
+      "name": "Bucrow",
+      "lv": 33,
+      "x": 8733.5,
+      "z": -2029.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW2",
+      "name": "Bucrow",
+      "lv": 33,
+      "x": 8801.5,
+      "z": -2036,
+      "r": 21,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW3",
+      "name": "Captain Bucrow",
+      "lv": 34,
+      "x": 8734,
+      "z": -2029.5,
+      "r": 20.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW3",
+      "name": "Captain Bucrow",
+      "lv": 34,
+      "x": 8801.5,
+      "z": -2035,
+      "r": 21,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW4",
+      "name": "Giant Bucrow",
+      "lv": 37,
+      "x": 8729,
+      "z": -2054,
+      "r": 70,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_KERN2",
+      "name": "Kern",
+      "lv": 100,
+      "x": 3004.5,
+      "z": -2480.5,
+      "r": 58.5,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_KERN2",
+      "name": "Kern",
+      "lv": 100,
+      "x": 2983,
+      "z": -2295,
+      "r": 66,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_KERN3",
+      "name": "Captain Kern",
+      "lv": 101,
+      "x": 2907,
+      "z": -2416.5,
+      "r": 96.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_KERN4",
+      "name": "Giant Kern",
+      "lv": 104,
+      "x": 2936,
+      "z": -2484,
+      "r": 88,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_GLAPHAN1",
+      "name": "Small Glaphan",
+      "lv": 102,
+      "x": 3124.5,
+      "z": -2350.5,
+      "r": 26.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN1",
+      "name": "Small Glaphan",
+      "lv": 102,
+      "x": 3189,
+      "z": -2352,
+      "r": 46,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN1",
+      "name": "Small Glaphan",
+      "lv": 102,
+      "x": 3345.5,
+      "z": -2557,
+      "r": 60,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN2",
+      "name": "Glaphan",
+      "lv": 103,
+      "x": 3170.5,
+      "z": -2411,
+      "r": 31,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN2",
+      "name": "Glaphan",
+      "lv": 103,
+      "x": 3170,
+      "z": -2286.5,
+      "r": 42.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN3",
+      "name": "Captain Glaphan",
+      "lv": 104,
+      "x": 3164,
+      "z": -2505.5,
+      "r": 35,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN3",
+      "name": "Captain Glaphan",
+      "lv": 104,
+      "x": 3153,
+      "z": -2157.5,
+      "r": 58.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GLAPHAN4",
+      "name": "Giant Glaphan",
+      "lv": 107,
+      "x": 3168.5,
+      "z": -2339.5,
+      "r": 180.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_GUARDMON1",
+      "name": "Venel Guardian",
+      "lv": 60,
+      "x": 3244.5,
+      "z": -2528,
+      "r": 10.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO1",
+      "name": "Small Hobo",
+      "lv": 35,
+      "x": 8114.5,
+      "z": -2061.5,
+      "r": 49.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO2",
+      "name": "Hobo",
+      "lv": 35,
+      "x": 8180.5,
+      "z": -2188,
+      "r": 45,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO3",
+      "name": "Captain Hobo",
+      "lv": 36,
+      "x": 7972.5,
+      "z": -2081.5,
+      "r": 49.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO3",
+      "name": "Captain Hobo",
+      "lv": 36,
+      "x": 7981.5,
+      "z": -2199,
+      "r": 52,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO4",
+      "name": "Giant Hobo",
+      "lv": 39,
+      "x": 7982,
+      "z": -2128,
+      "r": 120,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER2",
+      "name": "Jack the Hammer",
+      "lv": 29,
+      "x": 8055.5,
+      "z": -2557.5,
+      "r": 40.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER3",
+      "name": "Captain Jack the Hammer",
+      "lv": 30,
+      "x": 8017,
+      "z": -2526,
+      "r": 34,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER3",
+      "name": "Captain Jack the Hammer",
+      "lv": 30,
+      "x": 8135.5,
+      "z": -2554.5,
+      "r": 30.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER4",
+      "name": "Giant Jack the Hammer",
+      "lv": 33,
+      "x": 8083.5,
+      "z": -2544,
+      "r": 64.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8071.5,
+      "z": -2527,
+      "r": 13,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7963.5,
+      "z": -2224,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARDPUPPET2",
+      "name": "Cardpuppet",
+      "lv": 41,
+      "x": 8694,
+      "z": -2549.5,
+      "r": 52,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARDPUPPET3",
+      "name": "Manager Cardpuppet",
+      "lv": 42,
+      "x": 8683.5,
+      "z": -2480,
+      "r": 43.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_ROCKMUSCLE1",
+      "name": "Small Rock Muscle",
+      "lv": 33,
+      "x": 8576,
+      "z": -2113,
+      "r": 63,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_ROCKMUSCLE1",
+      "name": "Small Rock Muscle",
+      "lv": 33,
+      "x": 8444.5,
+      "z": -2061.5,
+      "r": 76.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER3",
+      "name": "Captain Jack the Hammer",
+      "lv": 30,
+      "x": 8567,
+      "z": -2523.5,
+      "r": 45.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER3",
+      "name": "Captain Jack the Hammer",
+      "lv": 30,
+      "x": 8610,
+      "z": -2331,
+      "r": 37,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW1",
+      "name": "Small Bucrow",
+      "lv": 33,
+      "x": 8710,
+      "z": -2097,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW3",
+      "name": "Captain Bucrow",
+      "lv": 34,
+      "x": 8710.5,
+      "z": -2099,
+      "r": 20.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8676.5,
+      "z": -2415.5,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8579.5,
+      "z": -2450.5,
+      "r": 17.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAKALPION",
+      "name": "Shacalpion",
+      "lv": 60,
+      "x": 8254,
+      "z": -2272,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARDPUPPET3",
+      "name": "Manager Cardpuppet",
+      "lv": 42,
+      "x": 8694,
+      "z": -2415.5,
+      "r": 38.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARDPUPPET4",
+      "name": "Boss Cardpuppet",
+      "lv": 45,
+      "x": 8700.5,
+      "z": -2480,
+      "r": 109,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_DUMBBULL1",
+      "name": "Small Dumb Bull",
+      "lv": 37,
+      "x": 8913,
+      "z": -2386.5,
+      "r": 43,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMBBULL1",
+      "name": "Small Dumb Bull",
+      "lv": 37,
+      "x": 9039.5,
+      "z": -2398.5,
+      "r": 70.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMBBULL1",
+      "name": "Small Dumb Bull",
+      "lv": 37,
+      "x": 8816,
+      "z": -2248,
+      "r": 79,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMBBULL2",
+      "name": "Dumb Bull",
+      "lv": 37,
+      "x": 8937,
+      "z": -2454,
+      "r": 38,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW1",
+      "name": "Small Bucrow",
+      "lv": 33,
+      "x": 8778,
+      "z": -2110,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW2",
+      "name": "Bucrow",
+      "lv": 33,
+      "x": 8709.5,
+      "z": -2097,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW2",
+      "name": "Bucrow",
+      "lv": 33,
+      "x": 8778,
+      "z": -2110,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BUCROW3",
+      "name": "Captain Bucrow",
+      "lv": 34,
+      "x": 8778,
+      "z": -2109.5,
+      "r": 20,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_REN",
+      "name": "Ren",
+      "lv": 60,
+      "x": 8780,
+      "z": -2181,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8732,
+      "z": -2060,
+      "r": 24,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8998,
+      "z": -2458,
+      "r": 14,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8733,
+      "z": -2513,
+      "r": 19,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8818.5,
+      "z": -2338.5,
+      "r": 14.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_LUIA3",
+      "name": "Captain Luia",
+      "lv": 92,
+      "x": 3027,
+      "z": -2784.5,
+      "r": 86,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_LUIA3",
+      "name": "Captain Luia",
+      "lv": 92,
+      "x": 3045.5,
+      "z": -2999.5,
+      "r": 91.5,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_KERN1",
+      "name": "Small Kern",
+      "lv": 99,
+      "x": 2966,
+      "z": -2657,
+      "r": 100,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_KERN1",
+      "name": "Small Kern",
+      "lv": 99,
+      "x": 2905,
+      "z": -2540,
+      "r": 78,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_SISIF",
+      "name": "Sisif",
+      "lv": 60,
+      "x": 2961.5,
+      "z": -2754.5,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA1",
+      "name": "Small Shuhamma",
+      "lv": 96,
+      "x": 3393,
+      "z": -2877.5,
+      "r": 58,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA1",
+      "name": "Small Shuhamma",
+      "lv": 96,
+      "x": 3560,
+      "z": -2896,
+      "r": 44,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA3",
+      "name": "Captain Shuhamma",
+      "lv": 98,
+      "x": 3550.5,
+      "z": -2602,
+      "r": 51.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA3",
+      "name": "Captain Shuhamma",
+      "lv": 98,
+      "x": 3473,
+      "z": -2691,
+      "r": 55,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY1",
+      "name": "Small Gongury",
+      "lv": 93,
+      "x": 3384.5,
+      "z": -3040.5,
+      "r": 60.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY1",
+      "name": "Small Gongury",
+      "lv": 93,
+      "x": 3316.5,
+      "z": -2983.5,
+      "r": 91.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY2",
+      "name": "Gongury",
+      "lv": 94,
+      "x": 3359.5,
+      "z": -2875.5,
+      "r": 59.5,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY2",
+      "name": "Gongury",
+      "lv": 94,
+      "x": 3275.5,
+      "z": -2874.5,
+      "r": 56.5,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY3",
+      "name": "Captain Gongury",
+      "lv": 95,
+      "x": 3282.5,
+      "z": -2758,
+      "r": 57.5,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY3",
+      "name": "Captain Gongury",
+      "lv": 95,
+      "x": 3436,
+      "z": -2741,
+      "r": 66,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GONGURY4",
+      "name": "Giant Gongury",
+      "lv": 98,
+      "x": 3311.5,
+      "z": -2811,
+      "r": 118,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_SHUHAMMA2",
+      "name": "Shuhamma",
+      "lv": 97,
+      "x": 3587,
+      "z": -2845.5,
+      "r": 28.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA2",
+      "name": "Shuhamma",
+      "lv": 97,
+      "x": 3606.5,
+      "z": -2733,
+      "r": 77,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA3",
+      "name": "Captain Shuhamma",
+      "lv": 98,
+      "x": 3598.5,
+      "z": -2630,
+      "r": 34,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHUHAMMA4",
+      "name": "Giant Shuhamma",
+      "lv": 101,
+      "x": 3603.5,
+      "z": -2744.5,
+      "r": 146.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_GRRR1",
+      "name": "Small Grrr",
+      "lv": 87,
+      "x": 3899,
+      "z": -3097,
+      "r": 67,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMP2",
+      "name": "Dump",
+      "lv": 91,
+      "x": 4066,
+      "z": -3039.5,
+      "r": 62.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK1",
+      "name": "Pawn Popcrank",
+      "lv": 102,
+      "x": 4087,
+      "z": -2697,
+      "r": 43,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK3",
+      "name": "Rook Popcrank",
+      "lv": 103,
+      "x": 4116.5,
+      "z": -2693,
+      "r": 64.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK2",
+      "name": "Knight Popcrank",
+      "lv": 102,
+      "x": 4101.5,
+      "z": -2696,
+      "r": 53.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUFFRIN1",
+      "name": "Trainee Chef Muffrin",
+      "lv": 99,
+      "x": 3969.5,
+      "z": -2648,
+      "r": 91,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUFFRIN2",
+      "name": "3rd Chef Muffrin",
+      "lv": 99,
+      "x": 3969,
+      "z": -2646,
+      "r": 81,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUFFRIN3",
+      "name": "2nd Chef Muffrin",
+      "lv": 100,
+      "x": 3970.5,
+      "z": -2644.5,
+      "r": 70.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUFFRIN4",
+      "name": "1st Chef Muffrin",
+      "lv": 101,
+      "x": 3970.5,
+      "z": -2641.5,
+      "r": 59.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUFFRIN6",
+      "name": "Great Chef Muffrin",
+      "lv": 104,
+      "x": 3972,
+      "z": -2640,
+      "r": 42,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_POPCRANK4",
+      "name": "Bishop Popcrank",
+      "lv": 104,
+      "x": 4118.5,
+      "z": -2689.5,
+      "r": 58.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK4",
+      "name": "Bishop Popcrank",
+      "lv": 104,
+      "x": 4066.5,
+      "z": -2622,
+      "r": 14.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_KIMERADON1",
+      "name": "Soldier Chimeradon",
+      "lv": 93,
+      "x": 3996.5,
+      "z": -2825,
+      "r": 73,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_KIMERADON2",
+      "name": "Brigadier Chimeradon",
+      "lv": 93,
+      "x": 3986.5,
+      "z": -2821.5,
+      "r": 53.5,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_KIMERADON3",
+      "name": "Major Chimeradon",
+      "lv": 94,
+      "x": 3979.5,
+      "z": -2820,
+      "r": 53.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_KIMERADON4",
+      "name": "Lieutenant Chimeradon",
+      "lv": 95,
+      "x": 3975,
+      "z": -2818,
+      "r": 52,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_KIMERADON5",
+      "name": "General Chimeradon",
+      "lv": 98,
+      "x": 3979.5,
+      "z": -2819.5,
+      "r": 31.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_POPCRANK3",
+      "name": "Rook Popcrank",
+      "lv": 103,
+      "x": 4065,
+      "z": -2618,
+      "r": 18,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK2",
+      "name": "Knight Popcrank",
+      "lv": 102,
+      "x": 4061.5,
+      "z": -2612,
+      "r": 24,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK1",
+      "name": "Pawn Popcrank",
+      "lv": 102,
+      "x": 4056.5,
+      "z": -2615.5,
+      "r": 24.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_GRRR3",
+      "name": "Captain Grrr",
+      "lv": 89,
+      "x": 4158.5,
+      "z": -2996.5,
+      "r": 69.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_GRRR2",
+      "name": "Grrr",
+      "lv": 88,
+      "x": 4109,
+      "z": -3067.5,
+      "r": 72.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMP3",
+      "name": "Captain Dump",
+      "lv": 92,
+      "x": 4069,
+      "z": -2981,
+      "r": 90,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BEARNUCKY1",
+      "name": "Private Bearnerky",
+      "lv": 96,
+      "x": 4139.5,
+      "z": -2830,
+      "r": 83,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_BEARNUCKY2",
+      "name": "Specialist Bearnerky",
+      "lv": 96,
+      "x": 4140.5,
+      "z": -2826.5,
+      "r": 72.5,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_BEARNUCKY3",
+      "name": "Sergeant Bearnerky",
+      "lv": 97,
+      "x": 4138.5,
+      "z": -2824.5,
+      "r": 64.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BEARNUCKY4",
+      "name": "Captian Bearnerky",
+      "lv": 98,
+      "x": 4141,
+      "z": -2820.5,
+      "r": 52.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BEARNUCKY5",
+      "name": "General Bearnerky",
+      "lv": 101,
+      "x": 4140.5,
+      "z": -2817,
+      "r": 33,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_POPCRANK5",
+      "name": "Queen Popcrank",
+      "lv": 105,
+      "x": 4135,
+      "z": -2650,
+      "r": 38,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_POPCRANK4",
+      "name": "Bishop Popcrank",
+      "lv": 104,
+      "x": 4137.5,
+      "z": -2639,
+      "r": 30,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK3",
+      "name": "Rook Popcrank",
+      "lv": 103,
+      "x": 4137.5,
+      "z": -2630.5,
+      "r": 28.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK2",
+      "name": "Knight Popcrank",
+      "lv": 102,
+      "x": 4096.5,
+      "z": -2578.5,
+      "r": 58.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK2",
+      "name": "Knight Popcrank",
+      "lv": 102,
+      "x": 4139,
+      "z": -2630,
+      "r": 38,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK1",
+      "name": "Pawn Popcrank",
+      "lv": 102,
+      "x": 4093,
+      "z": -2580,
+      "r": 60,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_POPCRANK1",
+      "name": "Pawn Popcrank",
+      "lv": 102,
+      "x": 4139.5,
+      "z": -2632.5,
+      "r": 37.5,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 6925.5,
+      "z": -2960,
+      "r": 32,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7064.5,
+      "z": -3002,
+      "r": 58.5,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 6938,
+      "z": -2943,
+      "r": 27,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 6698.5,
+      "z": -3016,
+      "r": 21,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 6914,
+      "z": -2909.5,
+      "r": 18,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 7140,
+      "z": -3044,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 6859,
+      "z": -2895.5,
+      "r": 29,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 6779,
+      "z": -2997,
+      "r": 31,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 6736,
+      "z": -2968,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT4",
+      "name": "Giant Aibatt",
+      "lv": 5,
+      "x": 6744,
+      "z": -2994.5,
+      "r": 48,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 7184,
+      "z": -3000,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_REDMANTIS1",
+      "name": "Red Mantis C",
+      "lv": 27,
+      "x": 8026.5,
+      "z": -2848,
+      "r": 44,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_REDMANTIS1",
+      "name": "Red Mantis C",
+      "lv": 27,
+      "x": 8061,
+      "z": -2752,
+      "r": 35,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_REDMANTIS2",
+      "name": "Red Mantis B",
+      "lv": 27,
+      "x": 8007.5,
+      "z": -2774.5,
+      "r": 35.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_REDMANTIS3",
+      "name": "Red Mantis A",
+      "lv": 28,
+      "x": 7959.5,
+      "z": -2743,
+      "r": 35,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_REDMANTIS3",
+      "name": "Red Mantis A",
+      "lv": 28,
+      "x": 7935.5,
+      "z": -2815,
+      "r": 39.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_REDMANTIS4",
+      "name": "Giant Red Mantis",
+      "lv": 31,
+      "x": 7943,
+      "z": -2780.5,
+      "r": 107,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MRPUMPKIN2",
+      "name": "Mr. Pumpkin",
+      "lv": 25,
+      "x": 8167,
+      "z": -2788,
+      "r": 44,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MRPUMPKIN3",
+      "name": "Rotten Mr Pumpkin",
+      "lv": 26,
+      "x": 8117,
+      "z": -2759.5,
+      "r": 35.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MRPUMPKIN3",
+      "name": "Rotten Mr Pumpkin",
+      "lv": 26,
+      "x": 8182,
+      "z": -2671.5,
+      "r": 35.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MRPUMPKIN4",
+      "name": "Giant Mr. Pumpkin",
+      "lv": 29,
+      "x": 8165,
+      "z": -2710.5,
+      "r": 71.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MIA1",
+      "name": "Small Mia",
+      "lv": 23,
+      "x": 8163.5,
+      "z": -3036,
+      "r": 41,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MIA3",
+      "name": "Captain Mia",
+      "lv": 24,
+      "x": 8114,
+      "z": -2881.5,
+      "r": 42.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MIA3",
+      "name": "Captain Mia",
+      "lv": 24,
+      "x": 8119.5,
+      "z": -2988,
+      "r": 40,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MIA4",
+      "name": "Giant Mia",
+      "lv": 27,
+      "x": 8105,
+      "z": -2932.5,
+      "r": 85,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_GIGGLEBOX1",
+      "name": "Small Giggle Box",
+      "lv": 31,
+      "x": 7888.5,
+      "z": -2724,
+      "r": 46.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_GIGGLEBOX1",
+      "name": "Small Giggle Box",
+      "lv": 31,
+      "x": 7989,
+      "z": -2665,
+      "r": 37,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_GIGGLEBOX2",
+      "name": "Giggle Box",
+      "lv": 31,
+      "x": 7926,
+      "z": -2678.5,
+      "r": 33,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_GIGGLEBOX3",
+      "name": "Captain Giggle Box",
+      "lv": 32,
+      "x": 7860,
+      "z": -2682.5,
+      "r": 44,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_GIGGLEBOX3",
+      "name": "Captain Giggle Box",
+      "lv": 32,
+      "x": 7956.5,
+      "z": -2609.5,
+      "r": 36.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_GIGGLEBOX4",
+      "name": "Giant Giggle Box",
+      "lv": 35,
+      "x": 7910,
+      "z": -2645,
+      "r": 55,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER1",
+      "name": "Small Jack the Hammer",
+      "lv": 29,
+      "x": 8124,
+      "z": -2604.5,
+      "r": 48,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_JACKTHEHAMMER1",
+      "name": "Small Jack the Hammer",
+      "lv": 29,
+      "x": 8050.5,
+      "z": -2624,
+      "r": 50,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8162.5,
+      "z": -2957.5,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8175,
+      "z": -2804,
+      "r": 20,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8081,
+      "z": -2638,
+      "r": 18,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION3",
+      "name": "Arc Master of the Violet Magician Troupe",
+      "lv": 40,
+      "x": 7835,
+      "z": -2762,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_VIOLMAGICION2",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 30,
+      "x": 7834,
+      "z": -2761,
+      "r": 14,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_MRPUMPKIN1",
+      "name": "Stale Mr. Pumpkin",
+      "lv": 25,
+      "x": 8261,
+      "z": -2819,
+      "r": 31,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MRPUMPKIN1",
+      "name": "Stale Mr. Pumpkin",
+      "lv": 25,
+      "x": 8231,
+      "z": -2748,
+      "r": 46,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARDPUPPET1",
+      "name": "Maid Cardpuppet",
+      "lv": 41,
+      "x": 8643,
+      "z": -2596,
+      "r": 41,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOTEMIA3",
+      "name": "Captain Totemia",
+      "lv": 40,
+      "x": 8643,
+      "z": -2692,
+      "r": 62,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOTEMIA3",
+      "name": "Captain Totemia",
+      "lv": 40,
+      "x": 8659,
+      "z": -2775,
+      "r": 68,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOTEMIA4",
+      "name": "Giant Totemia",
+      "lv": 43,
+      "x": 8671,
+      "z": -2755.5,
+      "r": 65,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MIA1",
+      "name": "Small Mia",
+      "lv": 23,
+      "x": 8573,
+      "z": -3001,
+      "r": 71,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MIA1",
+      "name": "Small Mia",
+      "lv": 23,
+      "x": 8385.5,
+      "z": -2887.5,
+      "r": 39.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MIA2",
+      "name": "Mia",
+      "lv": 23,
+      "x": 8192,
+      "z": -2965.5,
+      "r": 36,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8681,
+      "z": -2733,
+      "r": 17,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8503,
+      "z": -2802,
+      "r": 35,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARDPUPPET1",
+      "name": "Maid Cardpuppet",
+      "lv": 41,
+      "x": 8749.5,
+      "z": -2576,
+      "r": 38,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOTEMIA1",
+      "name": "Small Totemia",
+      "lv": 39,
+      "x": 8824,
+      "z": -2915,
+      "r": 59,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOTEMIA1",
+      "name": "Small Totemia",
+      "lv": 39,
+      "x": 8780.5,
+      "z": -2668,
+      "r": 55,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOTEMIA2",
+      "name": "Totemia",
+      "lv": 39,
+      "x": 8773.5,
+      "z": -2753,
+      "r": 60,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOBO2",
+      "name": "Hobo",
+      "lv": 35,
+      "x": 8971.5,
+      "z": -3047.5,
+      "r": 41.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMBBULL3",
+      "name": "Captain Dumb Bull",
+      "lv": 38,
+      "x": 8875,
+      "z": -2615,
+      "r": 64,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMBBULL3",
+      "name": "Captain Dumb Bull",
+      "lv": 38,
+      "x": 8932.5,
+      "z": -2644,
+      "r": 159,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMBBULL4",
+      "name": "Giant Dumb Bull",
+      "lv": 41,
+      "x": 8931.5,
+      "z": -2634,
+      "r": 186,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8851.5,
+      "z": -2617.5,
+      "r": 16.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8915.5,
+      "z": -2971.5,
+      "r": 15.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_EMERALDMANTIS",
+      "name": "Emeraldmantis",
+      "lv": 65,
+      "x": 8966,
+      "z": -2911.5,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA3",
+      "name": "Captain Watangka",
+      "lv": 86,
+      "x": 2835,
+      "z": -3427,
+      "r": 86,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_LUIA1",
+      "name": "Small Luia",
+      "lv": 90,
+      "x": 3005,
+      "z": -3162,
+      "r": 83,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_LUIA2",
+      "name": "Luia",
+      "lv": 91,
+      "x": 2921,
+      "z": -3074,
+      "r": 58,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_LUIA2",
+      "name": "Luia",
+      "lv": 91,
+      "x": 3034.5,
+      "z": -3091,
+      "r": 55,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_LUIA4",
+      "name": "Giant Luia",
+      "lv": 95,
+      "x": 3050.5,
+      "z": -3114,
+      "r": 99.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BOO1",
+      "name": "Small Boo",
+      "lv": 72,
+      "x": 3537.5,
+      "z": -3467.5,
+      "r": 89.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BOO2",
+      "name": "Boo",
+      "lv": 73,
+      "x": 3511,
+      "z": -3332.5,
+      "r": 77.5,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_BOO3",
+      "name": "Captain Boo",
+      "lv": 74,
+      "x": 3546.5,
+      "z": -3195,
+      "r": 78,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_BOO4",
+      "name": "Giant Boo",
+      "lv": 77,
+      "x": 3560.5,
+      "z": -3299,
+      "r": 124,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_LUIA1",
+      "name": "Small Luia",
+      "lv": 90,
+      "x": 3242,
+      "z": -3215.5,
+      "r": 76,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_MAFL_PATROL",
+      "name": "Guard",
+      "lv": 1,
+      "x": 3207.5,
+      "z": -3435,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_MAFL_PATROL",
+      "name": "Guard",
+      "lv": 1,
+      "x": 3235,
+      "z": -3423,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMP1",
+      "name": "Small Dump",
+      "lv": 90,
+      "x": 3955.5,
+      "z": -3097.5,
+      "r": 67.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NAUTREPY1",
+      "name": "Small Nautrepy",
+      "lv": 68,
+      "x": 3791,
+      "z": -3484.5,
+      "r": 165,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_NAUTREPY4",
+      "name": "Giant Nautrepy",
+      "lv": 73,
+      "x": 3863.5,
+      "z": -3552.5,
+      "r": 115.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_NAUTREPY3",
+      "name": "Captain Nautrepy",
+      "lv": 70,
+      "x": 4061.5,
+      "z": -3550.5,
+      "r": 87.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_NAUTREPY2",
+      "name": "Nautrepy",
+      "lv": 69,
+      "x": 3987.5,
+      "z": -3475.5,
+      "r": 74.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BOO1",
+      "name": "Small Boo",
+      "lv": 72,
+      "x": 3675.5,
+      "z": -3424,
+      "r": 78,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_BOO2",
+      "name": "Boo",
+      "lv": 73,
+      "x": 3619.5,
+      "z": -3283,
+      "r": 68,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_GRRR4",
+      "name": "Giant Grrr",
+      "lv": 92,
+      "x": 4316.5,
+      "z": -3142,
+      "r": 78,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_GRRR2",
+      "name": "Grrr",
+      "lv": 88,
+      "x": 4211,
+      "z": -3110,
+      "r": 78,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_DUMP4",
+      "name": "Giant Dump",
+      "lv": 95,
+      "x": 4263,
+      "z": -3106,
+      "r": 61,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_STEELKNIGHT1",
+      "name": "Small Steel Knight",
+      "lv": 55,
+      "x": 5450.5,
+      "z": -3530.5,
+      "r": 82.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEELKNIGHT1",
+      "name": "Small Steel Knight",
+      "lv": 55,
+      "x": 5564,
+      "z": -3445,
+      "r": 33,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEELKNIGHT2",
+      "name": "Steel Knight",
+      "lv": 55,
+      "x": 5502,
+      "z": -3447.5,
+      "r": 80.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEELKNIGHT3",
+      "name": "Captain Steel Knight",
+      "lv": 56,
+      "x": 5321.5,
+      "z": -3399.5,
+      "r": 87.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEELKNIGHT3",
+      "name": "Captain Steel Knight",
+      "lv": 56,
+      "x": 5406.5,
+      "z": -3398,
+      "r": 61.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEELKNIGHT4",
+      "name": "Giant Steel Knight",
+      "lv": 59,
+      "x": 5398.5,
+      "z": -3396,
+      "r": 62,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 5262,
+      "z": -3400.5,
+      "r": 31.5,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG2",
+      "name": "Red Bang Troupe Leader",
+      "lv": 35,
+      "x": 5252,
+      "z": -3402.5,
+      "r": 32.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 5191.5,
+      "z": -3378,
+      "r": 23,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG2",
+      "name": "Red Bang Troupe Leader",
+      "lv": 35,
+      "x": 5186,
+      "z": -3377.5,
+      "r": 25.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_LBHANOYAN",
+      "name": "Lord Bang Hanoyan",
+      "lv": 65,
+      "x": 5154,
+      "z": -3365,
+      "r": 11,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 5519.5,
+      "z": -3556.5,
+      "r": 15.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUTTYWHEEL1",
+      "name": "Small Nutty Wheel",
+      "lv": 57,
+      "x": 5717.5,
+      "z": -3305.5,
+      "r": 57.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUTTYWHEEL2",
+      "name": "Nutty Wheel",
+      "lv": 57,
+      "x": 5740,
+      "z": -3390.5,
+      "r": 36,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUTTYWHEEL3",
+      "name": "Captain Nutty Wheel",
+      "lv": 58,
+      "x": 5799,
+      "z": -3340.5,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUTTYWHEEL3",
+      "name": "Captain Nutty Wheel",
+      "lv": 58,
+      "x": 5817,
+      "z": -3430.5,
+      "r": 45.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUTTYWHEEL4",
+      "name": "Giant Nutty Wheel",
+      "lv": 61,
+      "x": 5753.5,
+      "z": -3384,
+      "r": 81.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 6717,
+      "z": -3198.5,
+      "r": 21.5,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7126.5,
+      "z": -3332.5,
+      "r": 29.5,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 6836,
+      "z": -3328,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 6892,
+      "z": -3472,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7052,
+      "z": -3416,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7012,
+      "z": -3424,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 6832,
+      "z": -3200.5,
+      "r": 42.5,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 6800,
+      "z": -3332,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 6772,
+      "z": -3436,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 7144,
+      "z": -3384,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 7036,
+      "z": -3460,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 7060,
+      "z": -3496,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 6900,
+      "z": -3504,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 6782,
+      "z": -3367,
+      "r": 21,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 6733.5,
+      "z": -3461,
+      "r": 29,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG1",
+      "name": "Small Burudeng",
+      "lv": 5,
+      "x": 6727,
+      "z": -3509.5,
+      "r": 42,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG1",
+      "name": "Small Burudeng",
+      "lv": 5,
+      "x": 6734.5,
+      "z": -3556,
+      "r": 47.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG1",
+      "name": "Small Burudeng",
+      "lv": 5,
+      "x": 6864,
+      "z": -3504,
+      "r": 24,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG2",
+      "name": "Burudeng",
+      "lv": 5,
+      "x": 6675,
+      "z": -3537.5,
+      "r": 34.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG2",
+      "name": "Burudeng",
+      "lv": 5,
+      "x": 6863,
+      "z": -3544.5,
+      "r": 30.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG3",
+      "name": "Captain Burudeng",
+      "lv": 6,
+      "x": 6675.5,
+      "z": -3584.5,
+      "r": 43.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG1",
+      "name": "Small Mushpang",
+      "lv": 3,
+      "x": 7112,
+      "z": -3480,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG1",
+      "name": "Small Mushpang",
+      "lv": 3,
+      "x": 7152,
+      "z": -3480,
+      "r": 24,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG1",
+      "name": "Small Mushpang",
+      "lv": 3,
+      "x": 7072.5,
+      "z": -3522,
+      "r": 30,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG2",
+      "name": "Mushpang",
+      "lv": 3,
+      "x": 7104,
+      "z": -3548,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG2",
+      "name": "Mushpang",
+      "lv": 3,
+      "x": 7148,
+      "z": -3524,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG3",
+      "name": "Captain Mushpang",
+      "lv": 4,
+      "x": 7145.5,
+      "z": -3570,
+      "r": 30.5,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_BABARI",
+      "name": "Babari",
+      "lv": 15,
+      "x": 6964.5,
+      "z": -3160.5,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 6986.5,
+      "z": -3447,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 6932.5,
+      "z": -3485,
+      "r": 11.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7164,
+      "z": -3510.5,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7264,
+      "z": -3320,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7212,
+      "z": -3476,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT1",
+      "name": "Small Aibatt",
+      "lv": 1,
+      "x": 7276,
+      "z": -3424,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 7311.5,
+      "z": -3338.5,
+      "r": 35.5,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT2",
+      "name": "Aibatt",
+      "lv": 1,
+      "x": 7232,
+      "z": -3512,
+      "r": 24,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 7266,
+      "z": -3478.5,
+      "r": 20,
+      "n": 18,
+      "boss": false
+    },
+    {
+      "mi": "MI_AIBATT3",
+      "name": "Captain Aibatt",
+      "lv": 2,
+      "x": 7230.5,
+      "z": -3391.5,
+      "r": 23.5,
+      "n": 9,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG1",
+      "name": "Small Burudeng",
+      "lv": 5,
+      "x": 7361,
+      "z": -3358.5,
+      "r": 31,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG3",
+      "name": "Captain Mushpang",
+      "lv": 4,
+      "x": 7168,
+      "z": -3548,
+      "r": 24,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPANG4",
+      "name": "Giant Mushpang",
+      "lv": 6,
+      "x": 7165,
+      "z": -3553,
+      "r": 71,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MIA1",
+      "name": "Small Mia",
+      "lv": 23,
+      "x": 8209.5,
+      "z": -3086,
+      "r": 49.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG1",
+      "name": "Bang",
+      "lv": 19,
+      "x": 8416,
+      "z": -3372,
+      "r": 46,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG2",
+      "name": "Captain Bang",
+      "lv": 19,
+      "x": 8484.5,
+      "z": -3273,
+      "r": 55,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG2",
+      "name": "Captain Bang",
+      "lv": 19,
+      "x": 8412.5,
+      "z": -3270,
+      "r": 50.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG3",
+      "name": "Boss Bang",
+      "lv": 20,
+      "x": 8477,
+      "z": -3344.5,
+      "r": 45,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WAGSAAC1",
+      "name": "Small Wagsaac",
+      "lv": 21,
+      "x": 8601,
+      "z": -3245.5,
+      "r": 42.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WAGSAAC1",
+      "name": "Small Wagsaac",
+      "lv": 21,
+      "x": 8578.5,
+      "z": -3156,
+      "r": 53,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WAGSAAC2",
+      "name": "Wagsaac",
+      "lv": 21,
+      "x": 8633.5,
+      "z": -3101,
+      "r": 47.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WAGSAAC3",
+      "name": "Captain Wagsaac",
+      "lv": 22,
+      "x": 8657.5,
+      "z": -3203.5,
+      "r": 48.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_MIA1",
+      "name": "Small Mia",
+      "lv": 23,
+      "x": 8304.5,
+      "z": -3201,
+      "r": 40,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_MOTHBEE2",
+      "name": "Mothbee",
+      "lv": 20,
+      "x": 8355.5,
+      "z": -3368,
+      "r": 82.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_MOTHBEE2",
+      "name": "Mothbee",
+      "lv": 20,
+      "x": 8644.5,
+      "z": -3490.5,
+      "r": 51.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_MOTHBEE2",
+      "name": "Mothbee",
+      "lv": 20,
+      "x": 8560.5,
+      "z": -3340.5,
+      "r": 51.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_MOTHBEE3",
+      "name": "Captain Mothbee",
+      "lv": 21,
+      "x": 8445.5,
+      "z": -3076,
+      "r": 64.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT1",
+      "name": "Small Flybat",
+      "lv": 21,
+      "x": 8442.5,
+      "z": -3208.5,
+      "r": 16.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT1",
+      "name": "Small Flybat",
+      "lv": 21,
+      "x": 8498,
+      "z": -3198,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT1",
+      "name": "Small Flybat",
+      "lv": 21,
+      "x": 8436.5,
+      "z": -3154,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT1",
+      "name": "Small Flybat",
+      "lv": 21,
+      "x": 8381.5,
+      "z": -3202.5,
+      "r": 16.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT1",
+      "name": "Small Flybat",
+      "lv": 21,
+      "x": 8381,
+      "z": -3145.5,
+      "r": 15.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT2",
+      "name": "Flybat",
+      "lv": 21,
+      "x": 8498,
+      "z": -3198.5,
+      "r": 16.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT2",
+      "name": "Flybat",
+      "lv": 21,
+      "x": 8442,
+      "z": -3209.5,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT2",
+      "name": "Flybat",
+      "lv": 21,
+      "x": 8438,
+      "z": -3153.5,
+      "r": 15.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT2",
+      "name": "Flybat",
+      "lv": 21,
+      "x": 8382,
+      "z": -3203,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT2",
+      "name": "Flybat",
+      "lv": 21,
+      "x": 8381.5,
+      "z": -3146.5,
+      "r": 15.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT3",
+      "name": "Captain Flybat",
+      "lv": 22,
+      "x": 8381,
+      "z": -3200.5,
+      "r": 17,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT3",
+      "name": "Captain Flybat",
+      "lv": 22,
+      "x": 8496.5,
+      "z": -3197.5,
+      "r": 17.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT3",
+      "name": "Captain Flybat",
+      "lv": 22,
+      "x": 8437.5,
+      "z": -3154.5,
+      "r": 15.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT3",
+      "name": "Captain Flybat",
+      "lv": 22,
+      "x": 8382.5,
+      "z": -3146,
+      "r": 16,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_FLYBAT4",
+      "name": "Giant Flybat",
+      "lv": 25,
+      "x": 8422,
+      "z": -3181,
+      "r": 63,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_SEIDO",
+      "name": "Seido",
+      "lv": 15,
+      "x": 8620.5,
+      "z": -3556,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8448.5,
+      "z": -3359,
+      "r": 15.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8626,
+      "z": -3112,
+      "r": 18,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8434,
+      "z": -3144,
+      "r": 11,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_WAGSAAC3",
+      "name": "Captain Wagsaac",
+      "lv": 22,
+      "x": 8694,
+      "z": -3130,
+      "r": 38,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_WAGSAAC4",
+      "name": "Giant Wagsaac",
+      "lv": 25,
+      "x": 8662,
+      "z": -3188.5,
+      "r": 74,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MOTHBEE3",
+      "name": "Captain Mothbee",
+      "lv": 21,
+      "x": 8714.5,
+      "z": -3280.5,
+      "r": 53.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8996,
+      "z": -3084.5,
+      "r": 16,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA1",
+      "name": "Small Watangka",
+      "lv": 84,
+      "x": 2743,
+      "z": -3943.5,
+      "r": 83,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA1",
+      "name": "Small Watangka",
+      "lv": 84,
+      "x": 2975,
+      "z": -4013.5,
+      "r": 129,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA2",
+      "name": "Watangka",
+      "lv": 85,
+      "x": 2709.5,
+      "z": -3816.5,
+      "r": 109.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA2",
+      "name": "Watangka",
+      "lv": 85,
+      "x": 3000.5,
+      "z": -3812,
+      "r": 126.5,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA3",
+      "name": "Captain Watangka",
+      "lv": 86,
+      "x": 2678,
+      "z": -3619.5,
+      "r": 106,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA3",
+      "name": "Captain Watangka",
+      "lv": 86,
+      "x": 2972.5,
+      "z": -3668,
+      "r": 106.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA3",
+      "name": "Captain Watangka",
+      "lv": 86,
+      "x": 2861,
+      "z": -3823.5,
+      "r": 76.5,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_WATANGKA4",
+      "name": "Giant Watangka",
+      "lv": 89,
+      "x": 2825,
+      "z": -3823.5,
+      "r": 156,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_ANTIQUERY1",
+      "name": "Small Antiquery",
+      "lv": 87,
+      "x": 3223,
+      "z": -3884,
+      "r": 117,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_ANTIQUERY1",
+      "name": "Small Antiquery",
+      "lv": 87,
+      "x": 3151,
+      "z": -3740,
+      "r": 115,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_ANTIQUERY2",
+      "name": "Antiquery",
+      "lv": 88,
+      "x": 3389.5,
+      "z": -3696,
+      "r": 65,
+      "n": 15,
+      "boss": false
+    },
+    {
+      "mi": "MI_ANTIQUERY2",
+      "name": "Antiquery",
+      "lv": 88,
+      "x": 3391,
+      "z": -3819,
+      "r": 94,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_ANTIQUERY4",
+      "name": "Giant Antiquery",
+      "lv": 92,
+      "x": 3401.5,
+      "z": -3756,
+      "r": 156.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_NAUTREPY1",
+      "name": "Small Nautrepy",
+      "lv": 68,
+      "x": 3857.5,
+      "z": -3606,
+      "r": 59,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_NAUTREPY2",
+      "name": "Nautrepy",
+      "lv": 69,
+      "x": 3975,
+      "z": -3662,
+      "r": 81,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG3",
+      "name": "Captain Greemong",
+      "lv": 72,
+      "x": 4389.5,
+      "z": -4052.5,
+      "r": 56.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA2",
+      "name": "Syliaca",
+      "lv": 69,
+      "x": 4612,
+      "z": -3881.5,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA3",
+      "name": "Grownup Syliaca",
+      "lv": 70,
+      "x": 4537.5,
+      "z": -3921.5,
+      "r": 42.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA4",
+      "name": "Giant Syliaca",
+      "lv": 73,
+      "x": 4642.5,
+      "z": -3875.5,
+      "r": 152.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUBO",
+      "name": "Rubo",
+      "lv": 60,
+      "x": 4547.5,
+      "z": -3911,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_GARBAGEPIDER1",
+      "name": "Small Garbagepider",
+      "lv": 65,
+      "x": 5086.5,
+      "z": -3885,
+      "r": 45,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GARBAGEPIDER3",
+      "name": "Captain Garbagepider",
+      "lv": 66,
+      "x": 5035.5,
+      "z": -3771.5,
+      "r": 52.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GARBAGEPIDER4",
+      "name": "Giant Garbagepider",
+      "lv": 69,
+      "x": 5040.5,
+      "z": -3814,
+      "r": 132.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_ELDERGUARD2",
+      "name": "Elderguard",
+      "lv": 63,
+      "x": 5010.5,
+      "z": -4095,
+      "r": 79,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_ELDERGUARD3",
+      "name": "Captain Elderguard",
+      "lv": 64,
+      "x": 4951.5,
+      "z": -3949,
+      "r": 53.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_ELDERGUARD3",
+      "name": "Captain Elderguard",
+      "lv": 64,
+      "x": 5051,
+      "z": -3951.5,
+      "r": 49,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_ELDERGUARD4",
+      "name": "Giant Elderguard",
+      "lv": 67,
+      "x": 5008.5,
+      "z": -3973,
+      "r": 63.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_SYLIACA1",
+      "name": "Young Syliaca",
+      "lv": 69,
+      "x": 4687.5,
+      "z": -3888,
+      "r": 36,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA1",
+      "name": "Young Syliaca",
+      "lv": 69,
+      "x": 4759.5,
+      "z": -3865.5,
+      "r": 44.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GARBAGEPIDER2",
+      "name": "Garbagepider",
+      "lv": 65,
+      "x": 5131.5,
+      "z": -3943.5,
+      "r": 56.5,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_GARBAGEPIDER3",
+      "name": "Captain Garbagepider",
+      "lv": 66,
+      "x": 5139.5,
+      "z": -3831.5,
+      "r": 68.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CRANEMACHINERY1",
+      "name": "Small Crane Machinery",
+      "lv": 67,
+      "x": 5197.5,
+      "z": -3946.5,
+      "r": 76.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CRANEMACHINERY1",
+      "name": "Small Crane Machinery",
+      "lv": 67,
+      "x": 5248,
+      "z": -3821,
+      "r": 61,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CRANEMACHINERY2",
+      "name": "Crane Machinery",
+      "lv": 67,
+      "x": 5222.5,
+      "z": -3880,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CRANEMACHINERY3",
+      "name": "Captain Crane Machinery",
+      "lv": 68,
+      "x": 5274,
+      "z": -4000,
+      "r": 47,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CRANEMACHINERY3",
+      "name": "Captain Crane Machinery",
+      "lv": 68,
+      "x": 5289.5,
+      "z": -3860.5,
+      "r": 55.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CRANEMACHINERY4",
+      "name": "Giant Crane Machinery",
+      "lv": 71,
+      "x": 5260,
+      "z": -3930,
+      "r": 78,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 5611.5,
+      "z": -3674,
+      "r": 16,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 5572.5,
+      "z": -3609,
+      "r": 13,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER1",
+      "name": "Small Steam Walker",
+      "lv": 53,
+      "x": 5934.5,
+      "z": -3829.5,
+      "r": 41.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER1",
+      "name": "Small Steam Walker",
+      "lv": 53,
+      "x": 5895.5,
+      "z": -3794.5,
+      "r": 42.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER2",
+      "name": "Steam Walker",
+      "lv": 53,
+      "x": 5892,
+      "z": -3726,
+      "r": 36,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER3",
+      "name": "Captain Steam Walker",
+      "lv": 54,
+      "x": 5781.5,
+      "z": -3667,
+      "r": 41,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER3",
+      "name": "Captain Steam Walker",
+      "lv": 54,
+      "x": 5859.5,
+      "z": -3667.5,
+      "r": 49.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER3",
+      "name": "Captain Steam Walker",
+      "lv": 54,
+      "x": 5823,
+      "z": -3954,
+      "r": 51,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_STEAMWALKER4",
+      "name": "Giant Steam Walker",
+      "lv": 57,
+      "x": 5828,
+      "z": -3666,
+      "r": 80,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_DRILLER1",
+      "name": "Small Driller",
+      "lv": 59,
+      "x": 5744.5,
+      "z": -4029,
+      "r": 47,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LEYENA1",
+      "name": "Small Leyena",
+      "lv": 51,
+      "x": 6129.5,
+      "z": -3918.5,
+      "r": 58.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_LEYENA1",
+      "name": "Small Leyena",
+      "lv": 51,
+      "x": 5982.5,
+      "z": -3939,
+      "r": 76,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_LEYENA2",
+      "name": "Leyena",
+      "lv": 51,
+      "x": 6022.5,
+      "z": -3951,
+      "r": 43,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_LEYENA4",
+      "name": "Giant Leyena",
+      "lv": 55,
+      "x": 6113.5,
+      "z": -4075,
+      "r": 81,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_TRANGFOMA1",
+      "name": "Small Trangfoma",
+      "lv": 51,
+      "x": 6053.5,
+      "z": -3720.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA1",
+      "name": "Small Trangfoma",
+      "lv": 51,
+      "x": 6122,
+      "z": -3714,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA1",
+      "name": "Small Trangfoma",
+      "lv": 51,
+      "x": 6096.5,
+      "z": -3849.5,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA1",
+      "name": "Small Trangfoma",
+      "lv": 51,
+      "x": 6138.5,
+      "z": -3782.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA1",
+      "name": "Small Trangfoma",
+      "lv": 51,
+      "x": 6064.5,
+      "z": -3785.5,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA2",
+      "name": "Trangfoma",
+      "lv": 51,
+      "x": 6097,
+      "z": -3848.5,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA2",
+      "name": "Trangfoma",
+      "lv": 51,
+      "x": 6138,
+      "z": -3781.5,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA2",
+      "name": "Trangfoma",
+      "lv": 51,
+      "x": 6054.5,
+      "z": -3723,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA2",
+      "name": "Trangfoma",
+      "lv": 51,
+      "x": 6121.5,
+      "z": -3714,
+      "r": 19,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA2",
+      "name": "Trangfoma",
+      "lv": 51,
+      "x": 6065.5,
+      "z": -3785,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA3",
+      "name": "Captain Trangfoma",
+      "lv": 52,
+      "x": 6138.5,
+      "z": -3781,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA3",
+      "name": "Captain Trangfoma",
+      "lv": 52,
+      "x": 6097,
+      "z": -3849.5,
+      "r": 21,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA3",
+      "name": "Captain Trangfoma",
+      "lv": 52,
+      "x": 6054,
+      "z": -3721.5,
+      "r": 19,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA3",
+      "name": "Captain Trangfoma",
+      "lv": 52,
+      "x": 6122.5,
+      "z": -3714,
+      "r": 20,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA3",
+      "name": "Captain Trangfoma",
+      "lv": 52,
+      "x": 6065.5,
+      "z": -3785.5,
+      "r": 20.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA4",
+      "name": "Giant Trangfoma",
+      "lv": 55,
+      "x": 6089,
+      "z": -3782.5,
+      "r": 62.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_HUNTERX",
+      "name": "Hunter X",
+      "lv": 60,
+      "x": 6072.5,
+      "z": -3757.5,
+      "r": 11.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_KYNSY",
+      "name": "Kynsy",
+      "lv": 60,
+      "x": 5661,
+      "z": -3712,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE1",
+      "name": "Small Peakyturtle",
+      "lv": 8,
+      "x": 6632,
+      "z": -3644,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE1",
+      "name": "Small Peakyturtle",
+      "lv": 8,
+      "x": 6588,
+      "z": -3612,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE2",
+      "name": "Peakyturtle",
+      "lv": 8,
+      "x": 6574,
+      "z": -3648,
+      "r": 34,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE3",
+      "name": "Captain Peakyturtle",
+      "lv": 9,
+      "x": 6596,
+      "z": -3704,
+      "r": 24,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE3",
+      "name": "Captain Peakyturtle",
+      "lv": 9,
+      "x": 6511.5,
+      "z": -3640,
+      "r": 43.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE4",
+      "name": "Giant Peakyturtle",
+      "lv": 12,
+      "x": 6590.5,
+      "z": -3670,
+      "r": 59.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_LEYENA3",
+      "name": "Captain Leyena",
+      "lv": 52,
+      "x": 6175,
+      "z": -4048,
+      "r": 49,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA1",
+      "name": "Small Trangfoma",
+      "lv": 51,
+      "x": 6167,
+      "z": -3845.5,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA2",
+      "name": "Trangfoma",
+      "lv": 51,
+      "x": 6166,
+      "z": -3845,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_TRANGFOMA3",
+      "name": "Captain Trangfoma",
+      "lv": 52,
+      "x": 6165.5,
+      "z": -3846,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 6586.5,
+      "z": -3610.5,
+      "r": 13.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION2",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 30,
+      "x": 6599,
+      "z": -3735.5,
+      "r": 10,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_ORGANIGOR",
+      "name": "Organigor",
+      "lv": 25,
+      "x": 6498.5,
+      "z": -3614.5,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_GANGARD",
+      "name": "Gangard",
+      "lv": 35,
+      "x": 6634,
+      "z": -3686.5,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG1",
+      "name": "Small Burudeng",
+      "lv": 5,
+      "x": 7137,
+      "z": -3584,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG2",
+      "name": "Burudeng",
+      "lv": 5,
+      "x": 7152,
+      "z": -3611.5,
+      "r": 27.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG4",
+      "name": "Giant Burudeng",
+      "lv": 9,
+      "x": 6690.5,
+      "z": -3572.5,
+      "r": 77.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_PUKEPUKE1",
+      "name": "Small Pukepuke",
+      "lv": 7,
+      "x": 7008,
+      "z": -3676,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE1",
+      "name": "Small Pukepuke",
+      "lv": 7,
+      "x": 7062.5,
+      "z": -3679,
+      "r": 34.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE1",
+      "name": "Small Pukepuke",
+      "lv": 7,
+      "x": 7120,
+      "z": -3714.5,
+      "r": 22,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE1",
+      "name": "Small Pukepuke",
+      "lv": 7,
+      "x": 6987.5,
+      "z": -3655,
+      "r": 39.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE1",
+      "name": "Small Pukepuke",
+      "lv": 7,
+      "x": 6797,
+      "z": -3640.5,
+      "r": 27.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE2",
+      "name": "Pukepuke",
+      "lv": 7,
+      "x": 7023.5,
+      "z": -3725.5,
+      "r": 27.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE2",
+      "name": "Pukepuke",
+      "lv": 7,
+      "x": 7067.5,
+      "z": -3736,
+      "r": 27.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE2",
+      "name": "Pukepuke",
+      "lv": 7,
+      "x": 7147.5,
+      "z": -3775.5,
+      "r": 23.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE3",
+      "name": "Captain Pukepuke",
+      "lv": 8,
+      "x": 7017,
+      "z": -3778.5,
+      "r": 31,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE3",
+      "name": "Captain Pukepuke",
+      "lv": 8,
+      "x": 7085.5,
+      "z": -3788.5,
+      "r": 22.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE3",
+      "name": "Captain Pukepuke",
+      "lv": 8,
+      "x": 7045.5,
+      "z": -3788.5,
+      "r": 26.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE4",
+      "name": "Giant Pukepuke",
+      "lv": 11,
+      "x": 7056.5,
+      "z": -3771.5,
+      "r": 57.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_DORIDOMA1",
+      "name": "Small Doridoma",
+      "lv": 11,
+      "x": 6816,
+      "z": -3700,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA1",
+      "name": "Small Doridoma",
+      "lv": 11,
+      "x": 6836,
+      "z": -3740,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA1",
+      "name": "Small Doridoma",
+      "lv": 11,
+      "x": 6874,
+      "z": -3752.5,
+      "r": 32.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA2",
+      "name": "Doridoma",
+      "lv": 11,
+      "x": 6856,
+      "z": -3784,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA2",
+      "name": "Doridoma",
+      "lv": 11,
+      "x": 6904,
+      "z": -3804,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA3",
+      "name": "Captain Doridoma",
+      "lv": 12,
+      "x": 6860,
+      "z": -3836,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA3",
+      "name": "Captain Doridoma",
+      "lv": 12,
+      "x": 6820,
+      "z": -3792,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA4",
+      "name": "Giant Doridoma",
+      "lv": 15,
+      "x": 6854,
+      "z": -3808,
+      "r": 43,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_LAWOLF2",
+      "name": "Lawolf",
+      "lv": 13,
+      "x": 7123.5,
+      "z": -3893,
+      "r": 35.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF2",
+      "name": "Lawolf",
+      "lv": 13,
+      "x": 7061.5,
+      "z": -3957,
+      "r": 59,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF3",
+      "name": "Grownup Lawolf",
+      "lv": 14,
+      "x": 7064,
+      "z": -4039,
+      "r": 30,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF4",
+      "name": "Giant Lawolf",
+      "lv": 17,
+      "x": 7053.5,
+      "z": -4051.5,
+      "r": 91.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_PEAKYTURTLE1",
+      "name": "Small Peakyturtle",
+      "lv": 8,
+      "x": 6954.5,
+      "z": -3711,
+      "r": 42,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_PEAKYTURTLE1",
+      "name": "Small Peakyturtle",
+      "lv": 8,
+      "x": 6844,
+      "z": -3678.5,
+      "r": 33.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7156.5,
+      "z": -3633.5,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7095.5,
+      "z": -3746,
+      "r": 13.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7045.5,
+      "z": -3908.5,
+      "r": 25.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 6842,
+      "z": -3831,
+      "r": 13,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_HADESEOR",
+      "name": "Hadeseor",
+      "lv": 45,
+      "x": 6687,
+      "z": -3639,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG2",
+      "name": "Burudeng",
+      "lv": 5,
+      "x": 7184,
+      "z": -3607,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG3",
+      "name": "Captain Burudeng",
+      "lv": 6,
+      "x": 7202,
+      "z": -3640.5,
+      "r": 18,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BURUDENG3",
+      "name": "Captain Burudeng",
+      "lv": 6,
+      "x": 7210.5,
+      "z": -3612.5,
+      "r": 18.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PUKEPUKE1",
+      "name": "Small Pukepuke",
+      "lv": 7,
+      "x": 7189.5,
+      "z": -3774,
+      "r": 34,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA1",
+      "name": "Small Doridoma",
+      "lv": 11,
+      "x": 7320,
+      "z": -3992,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DORIDOMA1",
+      "name": "Small Doridoma",
+      "lv": 11,
+      "x": 7436,
+      "z": -3956,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF1",
+      "name": "Young Lawolf",
+      "lv": 13,
+      "x": 7229,
+      "z": -3872.5,
+      "r": 29,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF1",
+      "name": "Young Lawolf",
+      "lv": 13,
+      "x": 7253,
+      "z": -3912,
+      "r": 35,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF2",
+      "name": "Lawolf",
+      "lv": 13,
+      "x": 7176,
+      "z": -3877.5,
+      "r": 32,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NYANGNYANG1",
+      "name": "Cute Nyangnyang",
+      "lv": 17,
+      "x": 7464,
+      "z": -4072,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_FEFERN1",
+      "name": "1st Class Fefern",
+      "lv": 15,
+      "x": 7319,
+      "z": -4063.5,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_FEFERN1",
+      "name": "1st Class Fefern",
+      "lv": 15,
+      "x": 7265.5,
+      "z": -4075.5,
+      "r": 22.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN1",
+      "name": "Urchin Demian",
+      "lv": 9,
+      "x": 7293,
+      "z": -3613.5,
+      "r": 26.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN1",
+      "name": "Urchin Demian",
+      "lv": 9,
+      "x": 7196,
+      "z": -3700,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN1",
+      "name": "Urchin Demian",
+      "lv": 9,
+      "x": 7289.5,
+      "z": -3683.5,
+      "r": 25.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN2",
+      "name": "Demian",
+      "lv": 9,
+      "x": 7344,
+      "z": -3700,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN3",
+      "name": "Bad Demian",
+      "lv": 10,
+      "x": 7396,
+      "z": -3680.5,
+      "r": 25.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN3",
+      "name": "Bad Demian",
+      "lv": 10,
+      "x": 7382,
+      "z": -3598,
+      "r": 26,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DEMIAN4",
+      "name": "Giant Demian",
+      "lv": 13,
+      "x": 7365,
+      "z": -3642,
+      "r": 83,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MOTHBEE1",
+      "name": "Small Mothbee",
+      "lv": 20,
+      "x": 7420.5,
+      "z": -4018,
+      "r": 58.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CHANER",
+      "name": "Chaner",
+      "lv": 15,
+      "x": 7277,
+      "z": -3696,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7380.5,
+      "z": -3721.5,
+      "r": 10.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7372.5,
+      "z": -3905,
+      "r": 15.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 8257,
+      "z": -4042,
+      "r": 27,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION2",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 30,
+      "x": 8302,
+      "z": -4036.5,
+      "r": 15.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON1",
+      "name": "Small Scorpicon",
+      "lv": 43,
+      "x": 9173.5,
+      "z": -3919.5,
+      "r": 17.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON1",
+      "name": "Small Scorpicon",
+      "lv": 43,
+      "x": 9189,
+      "z": -3987.5,
+      "r": 17,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON1",
+      "name": "Small Scorpicon",
+      "lv": 43,
+      "x": 9130,
+      "z": -3977.5,
+      "r": 16.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON1",
+      "name": "Small Scorpicon",
+      "lv": 43,
+      "x": 9073.5,
+      "z": -4012,
+      "r": 17.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON1",
+      "name": "Small Scorpicon",
+      "lv": 43,
+      "x": 9094,
+      "z": -4074.5,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON2",
+      "name": "Scorpicon",
+      "lv": 43,
+      "x": 9172.5,
+      "z": -3918.5,
+      "r": 17.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON2",
+      "name": "Scorpicon",
+      "lv": 43,
+      "x": 9188.5,
+      "z": -3988,
+      "r": 15.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON2",
+      "name": "Scorpicon",
+      "lv": 43,
+      "x": 9129,
+      "z": -3977,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON2",
+      "name": "Scorpicon",
+      "lv": 43,
+      "x": 9093,
+      "z": -4073,
+      "r": 17,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON2",
+      "name": "Scorpicon",
+      "lv": 43,
+      "x": 9073,
+      "z": -4013,
+      "r": 16,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON3",
+      "name": "Captain Scorpicon",
+      "lv": 44,
+      "x": 9073.5,
+      "z": -4013,
+      "r": 15.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON3",
+      "name": "Captain Scorpicon",
+      "lv": 44,
+      "x": 9128.5,
+      "z": -3978,
+      "r": 16.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON3",
+      "name": "Captain Scorpicon",
+      "lv": 44,
+      "x": 9190,
+      "z": -3989,
+      "r": 16,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON3",
+      "name": "Captain Scorpicon",
+      "lv": 44,
+      "x": 9173,
+      "z": -3920.5,
+      "r": 17.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_SCOPICON4",
+      "name": "Giant Scorpicon",
+      "lv": 47,
+      "x": 9154,
+      "z": -3966,
+      "r": 41,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_WHEELEM1",
+      "name": "Rough Wheelem",
+      "lv": 49,
+      "x": 9552,
+      "z": -4051.5,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WHEELEM1",
+      "name": "Rough Wheelem",
+      "lv": 49,
+      "x": 9490.5,
+      "z": -4035,
+      "r": 29,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER1",
+      "name": "Small Mage Prankster",
+      "lv": 47,
+      "x": 9288,
+      "z": -3752,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER1",
+      "name": "Small Mage Prankster",
+      "lv": 47,
+      "x": 9384,
+      "z": -3812,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER1",
+      "name": "Small Mage Prankster",
+      "lv": 47,
+      "x": 9292,
+      "z": -3844,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER2",
+      "name": "Prankster",
+      "lv": 47,
+      "x": 9332,
+      "z": -3996,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER2",
+      "name": "Prankster",
+      "lv": 47,
+      "x": 9337,
+      "z": -3915.5,
+      "r": 32.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER2",
+      "name": "Prankster",
+      "lv": 47,
+      "x": 9418.5,
+      "z": -3852,
+      "r": 41.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER3",
+      "name": "Master Mage Prankster",
+      "lv": 48,
+      "x": 9386,
+      "z": -3938,
+      "r": 38,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER3",
+      "name": "Master Mage Prankster",
+      "lv": 48,
+      "x": 9518,
+      "z": -3942.5,
+      "r": 33.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_PRANKSTER4",
+      "name": "Giantmage Prankster",
+      "lv": 51,
+      "x": 9452,
+      "z": -3936,
+      "r": 24,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MUSHPOIE1",
+      "name": "Small Mushpoie",
+      "lv": 78,
+      "x": 2519.5,
+      "z": -4322.5,
+      "r": 28.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE3",
+      "name": "Captain Hoppre",
+      "lv": 77,
+      "x": 2523.5,
+      "z": -4601.5,
+      "r": 43.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE1",
+      "name": "Small Mushpoie",
+      "lv": 78,
+      "x": 2583,
+      "z": -4239.5,
+      "r": 27.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE1",
+      "name": "Small Mushpoie",
+      "lv": 78,
+      "x": 2615,
+      "z": -4357,
+      "r": 28,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE1",
+      "name": "Small Mushpoie",
+      "lv": 78,
+      "x": 2901,
+      "z": -4251.5,
+      "r": 41,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE1",
+      "name": "Small Mushpoie",
+      "lv": 78,
+      "x": 2804.5,
+      "z": -4249.5,
+      "r": 34.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE2",
+      "name": "Mushpoie",
+      "lv": 79,
+      "x": 2992.5,
+      "z": -4286.5,
+      "r": 46.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE2",
+      "name": "Mushpoie",
+      "lv": 79,
+      "x": 3068.5,
+      "z": -4319.5,
+      "r": 58.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE2",
+      "name": "Mushpoie",
+      "lv": 79,
+      "x": 3095.5,
+      "z": -4217,
+      "r": 51.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE2",
+      "name": "Hoppre",
+      "lv": 76,
+      "x": 2947.5,
+      "z": -4531,
+      "r": 56,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE3",
+      "name": "Captain Hoppre",
+      "lv": 77,
+      "x": 2584.5,
+      "z": -4543.5,
+      "r": 62.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE4",
+      "name": "Giant Hoppre",
+      "lv": 80,
+      "x": 2675,
+      "z": -4547,
+      "r": 190,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_HOPPRE3",
+      "name": "Captain Hoppre",
+      "lv": 77,
+      "x": 2942,
+      "z": -4430.5,
+      "r": 51.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE2",
+      "name": "Hoppre",
+      "lv": 76,
+      "x": 2772.5,
+      "z": -4534.5,
+      "r": 45.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3576.5,
+      "z": -4599.5,
+      "r": 21.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_IREN1",
+      "name": "Small Iren",
+      "lv": 81,
+      "x": 3242.5,
+      "z": -4193,
+      "r": 45.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_IREN1",
+      "name": "Small Iren",
+      "lv": 81,
+      "x": 3242.5,
+      "z": -4328,
+      "r": 45.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_IREN2",
+      "name": "Iren",
+      "lv": 82,
+      "x": 3331,
+      "z": -4308.5,
+      "r": 43.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_IREN2",
+      "name": "Iren",
+      "lv": 82,
+      "x": 3317.5,
+      "z": -4175,
+      "r": 55.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_IREN3",
+      "name": "Captain Iren",
+      "lv": 83,
+      "x": 3361.5,
+      "z": -4228,
+      "r": 71.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_IREN4",
+      "name": "Giant Iren",
+      "lv": 86,
+      "x": 3332.5,
+      "z": -4254,
+      "r": 76.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_MUSHPOIE3",
+      "name": "Captain Mushpoie",
+      "lv": 80,
+      "x": 3175,
+      "z": -4295,
+      "r": 41,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE3",
+      "name": "Captain Mushpoie",
+      "lv": 80,
+      "x": 3155,
+      "z": -4221.5,
+      "r": 45,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_MUSHPOIE4",
+      "name": "Giant Mushpoie",
+      "lv": 83,
+      "x": 3183.5,
+      "z": -4263,
+      "r": 89,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_CARRIERBOMB3",
+      "name": "Captain Carrierbomb",
+      "lv": 74,
+      "x": 4067.5,
+      "z": -4455,
+      "r": 40,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3655,
+      "z": -4583.5,
+      "r": 26,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3654,
+      "z": -4584.5,
+      "r": 26,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3656,
+      "z": -4582,
+      "r": 27,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHURAITURE",
+      "name": "Shuraiture",
+      "lv": 15,
+      "x": 4063,
+      "z": -4383,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_KIDLER",
+      "name": "Kidler",
+      "lv": 60,
+      "x": 3895.5,
+      "z": -4280,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_CLOCKS",
+      "name": "Clockworks",
+      "lv": 80,
+      "x": 3680,
+      "z": -4540,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_GREEMONG1",
+      "name": "Small Greemong",
+      "lv": 71,
+      "x": 4507,
+      "z": -4201,
+      "r": 49,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG1",
+      "name": "Small Greemong",
+      "lv": 71,
+      "x": 4487.5,
+      "z": -4283,
+      "r": 49,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG2",
+      "name": "Greemong",
+      "lv": 71,
+      "x": 4402.5,
+      "z": -4395.5,
+      "r": 63.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG2",
+      "name": "Greemong",
+      "lv": 71,
+      "x": 4394,
+      "z": -4145.5,
+      "r": 52,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG2",
+      "name": "Greemong",
+      "lv": 71,
+      "x": 4403,
+      "z": -4275,
+      "r": 65,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG3",
+      "name": "Captain Greemong",
+      "lv": 72,
+      "x": 4305,
+      "z": -4470.5,
+      "r": 85,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_GREEMONG4",
+      "name": "Giant Greemong",
+      "lv": 75,
+      "x": 4432.5,
+      "z": -4269,
+      "r": 112,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_CARRIERBOMB1",
+      "name": "Small Carrierbomb",
+      "lv": 73,
+      "x": 4207.5,
+      "z": -4178.5,
+      "r": 49.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARRIERBOMB1",
+      "name": "Small Carrierbomb",
+      "lv": 73,
+      "x": 4227.5,
+      "z": -4279,
+      "r": 53,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARRIERBOMB2",
+      "name": "Carrierbomb",
+      "lv": 73,
+      "x": 4178.5,
+      "z": -4370,
+      "r": 38,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARRIERBOMB2",
+      "name": "Carrierbomb",
+      "lv": 73,
+      "x": 4147.5,
+      "z": -4454.5,
+      "r": 50.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARRIERBOMB3",
+      "name": "Captain Carrierbomb",
+      "lv": 74,
+      "x": 4221,
+      "z": -4586,
+      "r": 62,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_CARRIERBOMB4",
+      "name": "Giant Carrierbomb",
+      "lv": 77,
+      "x": 4221,
+      "z": -4273.5,
+      "r": 83.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_ELDERGUARD1",
+      "name": "Small Elderguard",
+      "lv": 63,
+      "x": 5059.5,
+      "z": -4306.5,
+      "r": 71.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_ELDERGUARD1",
+      "name": "Small Elderguard",
+      "lv": 63,
+      "x": 5023.5,
+      "z": -4229,
+      "r": 61,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA1",
+      "name": "Young Syliaca",
+      "lv": 69,
+      "x": 4835.5,
+      "z": -4118.5,
+      "r": 52.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA1",
+      "name": "Young Syliaca",
+      "lv": 69,
+      "x": 4834.5,
+      "z": -4354.5,
+      "r": 43.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA2",
+      "name": "Syliaca",
+      "lv": 69,
+      "x": 4759,
+      "z": -4096,
+      "r": 43,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA2",
+      "name": "Syliaca",
+      "lv": 69,
+      "x": 4748,
+      "z": -4356,
+      "r": 48,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA3",
+      "name": "Grownup Syliaca",
+      "lv": 70,
+      "x": 4762.5,
+      "z": -4186.5,
+      "r": 38.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_SYLIACA3",
+      "name": "Grownup Syliaca",
+      "lv": 70,
+      "x": 4694.5,
+      "z": -4104.5,
+      "r": 39.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VOLT1",
+      "name": "Small Volt",
+      "lv": 61,
+      "x": 5379,
+      "z": -4171,
+      "r": 67,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VOLT1",
+      "name": "Small Volt",
+      "lv": 61,
+      "x": 5388.5,
+      "z": -4256.5,
+      "r": 58.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VOLT2",
+      "name": "Volt",
+      "lv": 61,
+      "x": 5304,
+      "z": -4237,
+      "r": 56,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VOLT3",
+      "name": "Captain Volt",
+      "lv": 62,
+      "x": 5249,
+      "z": -4309,
+      "r": 61,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VOLT3",
+      "name": "Captain Volt",
+      "lv": 62,
+      "x": 5201,
+      "z": -4253.5,
+      "r": 61,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VOLT4",
+      "name": "Giant Volt",
+      "lv": 65,
+      "x": 5226,
+      "z": -4278.5,
+      "r": 106,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_DRILLER1",
+      "name": "Small Driller",
+      "lv": 59,
+      "x": 5604.5,
+      "z": -4169.5,
+      "r": 43.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DRILLER2",
+      "name": "Driller",
+      "lv": 59,
+      "x": 5498.5,
+      "z": -4183,
+      "r": 59.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DRILLER3",
+      "name": "Captain Driller",
+      "lv": 60,
+      "x": 5501,
+      "z": -4292.5,
+      "r": 66.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DRILLER3",
+      "name": "Captain Driller",
+      "lv": 60,
+      "x": 5571,
+      "z": -4276.5,
+      "r": 64,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_DRILLER4",
+      "name": "Giant Driller",
+      "lv": 63,
+      "x": 5538,
+      "z": -4230,
+      "r": 82,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_LORDBANG",
+      "name": "Lord Bang",
+      "lv": 40,
+      "x": 5351,
+      "z": -4414.5,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_LEYENA3",
+      "name": "Captain Leyena",
+      "lv": 52,
+      "x": 6098,
+      "z": -4117.5,
+      "r": 66,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_LAWOLF3",
+      "name": "Grownup Lawolf",
+      "lv": 14,
+      "x": 7035,
+      "z": -4139.5,
+      "r": 27.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7017,
+      "z": -4137.5,
+      "r": 13.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_NYANGNYANG1",
+      "name": "Cute Nyangnyang",
+      "lv": 17,
+      "x": 7416,
+      "z": -4120,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NYANGNYANG2",
+      "name": "Nyangnyang",
+      "lv": 17,
+      "x": 7472,
+      "z": -4119,
+      "r": 40,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NYANGNYANG3",
+      "name": "Creep Nyangnyang",
+      "lv": 18,
+      "x": 7394.5,
+      "z": -4219.5,
+      "r": 30.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NYANGNYANG3",
+      "name": "Creep Nyangnyang",
+      "lv": 18,
+      "x": 7465,
+      "z": -4182,
+      "r": 57,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NYANGNYANG4",
+      "name": "Giant Nyangnyang",
+      "lv": 21,
+      "x": 7420.5,
+      "z": -4225.5,
+      "r": 78.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BANG1",
+      "name": "Bang",
+      "lv": 19,
+      "x": 7541.5,
+      "z": -4160.5,
+      "r": 33.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG1",
+      "name": "Bang",
+      "lv": 19,
+      "x": 7593,
+      "z": -4118,
+      "r": 30,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG2",
+      "name": "Captain Bang",
+      "lv": 19,
+      "x": 7603.5,
+      "z": -4231.5,
+      "r": 42.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG2",
+      "name": "Captain Bang",
+      "lv": 19,
+      "x": 7635.5,
+      "z": -4157.5,
+      "r": 39.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_FEFERN2",
+      "name": "Fefern",
+      "lv": 15,
+      "x": 7232.5,
+      "z": -4113,
+      "r": 32.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_FEFERN3",
+      "name": "2nd Class Fefern",
+      "lv": 16,
+      "x": 7188,
+      "z": -4160,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_FEFERN3",
+      "name": "2nd Class Fefern",
+      "lv": 16,
+      "x": 7248,
+      "z": -4192,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_FEFERN4",
+      "name": "Giant Fefern",
+      "lv": 19,
+      "x": 7224.5,
+      "z": -4166.5,
+      "r": 53.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 7510,
+      "z": -4222,
+      "r": 15,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7255.5,
+      "z": -4177,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7475,
+      "z": -4109.5,
+      "r": 12,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7374,
+      "z": -4276.5,
+      "r": 14,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_VIOLMAGICION",
+      "name": "Member of the Violet Magician Troupe",
+      "lv": 22,
+      "x": 7612.5,
+      "z": -4208.5,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG2",
+      "name": "Red Bang Troupe Leader",
+      "lv": 35,
+      "x": 7517.5,
+      "z": -4228,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG1",
+      "name": "Bang",
+      "lv": 19,
+      "x": 7861,
+      "z": -4296.5,
+      "r": 23.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG3",
+      "name": "Boss Bang",
+      "lv": 20,
+      "x": 7697.5,
+      "z": -4153,
+      "r": 42.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG3",
+      "name": "Boss Bang",
+      "lv": 20,
+      "x": 7745,
+      "z": -4105.5,
+      "r": 34.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG1",
+      "name": "Red Bang Troupe Member",
+      "lv": 30,
+      "x": 7798.5,
+      "z": -4489.5,
+      "r": 12.5,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_RBANG2",
+      "name": "Red Bang Troupe Leader",
+      "lv": 35,
+      "x": 7801.5,
+      "z": -4493.5,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BANG4",
+      "name": "Giant Bang",
+      "lv": 23,
+      "x": 7674,
+      "z": -4140.5,
+      "r": 53,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER1",
+      "name": "Small Tombstone Bearer",
+      "lv": 43,
+      "x": 9029,
+      "z": -4121,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER1",
+      "name": "Small Tombstone Bearer",
+      "lv": 43,
+      "x": 9104,
+      "z": -4268,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER1",
+      "name": "Small Tombstone Bearer",
+      "lv": 43,
+      "x": 9004,
+      "z": -4176,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER2",
+      "name": "Tombstone Bearer",
+      "lv": 43,
+      "x": 9082,
+      "z": -4192.5,
+      "r": 35.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER2",
+      "name": "Tombstone Bearer",
+      "lv": 43,
+      "x": 8931.5,
+      "z": -4169.5,
+      "r": 30.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER2",
+      "name": "Tombstone Bearer",
+      "lv": 43,
+      "x": 9019.5,
+      "z": -4235.5,
+      "r": 24.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER2",
+      "name": "Tombstone Bearer",
+      "lv": 43,
+      "x": 9034,
+      "z": -4312.5,
+      "r": 32.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER3",
+      "name": "Captain Tombstone Bearer",
+      "lv": 44,
+      "x": 8860,
+      "z": -4340,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER3",
+      "name": "Captain Tombstone Bearer",
+      "lv": 44,
+      "x": 8860,
+      "z": -4200,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER3",
+      "name": "Captain Tombstone Bearer",
+      "lv": 44,
+      "x": 8948,
+      "z": -4352,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_TOMBSTONEBEARER4",
+      "name": "Giant Tombstone Bearer",
+      "lv": 47,
+      "x": 8721.5,
+      "z": -4372,
+      "r": 28,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BASQUE1",
+      "name": "Phantom Basque",
+      "lv": 45,
+      "x": 9114,
+      "z": -4326.5,
+      "r": 30,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE1",
+      "name": "Phantom Basque",
+      "lv": 45,
+      "x": 9199,
+      "z": -4367,
+      "r": 20,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE1",
+      "name": "Phantom Basque",
+      "lv": 45,
+      "x": 9164,
+      "z": -4164,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_MINECATCHER",
+      "name": "Mine Catcher",
+      "lv": 15,
+      "x": 8991.5,
+      "z": -4291,
+      "r": 212.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOIREN",
+      "name": "Hoiren",
+      "lv": 60,
+      "x": 9053,
+      "z": -4185.5,
+      "r": 10,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_WHEELEM1",
+      "name": "Rough Wheelem",
+      "lv": 49,
+      "x": 9524,
+      "z": -4094.5,
+      "r": 38.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WHEELEM2",
+      "name": "Wheelem",
+      "lv": 49,
+      "x": 9569.5,
+      "z": -4161,
+      "r": 25,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WHEELEM2",
+      "name": "Wheelem",
+      "lv": 49,
+      "x": 9574.5,
+      "z": -4099,
+      "r": 19,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WHEELEM3",
+      "name": "Bouncing Wheelem",
+      "lv": 50,
+      "x": 9632.5,
+      "z": -4207,
+      "r": 24.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_WHEELEM4",
+      "name": "Giant Wheelem",
+      "lv": 53,
+      "x": 9707,
+      "z": -4264,
+      "r": 21,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BASQUE1",
+      "name": "Phantom Basque",
+      "lv": 45,
+      "x": 9266.5,
+      "z": -4184,
+      "r": 12.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE1",
+      "name": "Phantom Basque",
+      "lv": 45,
+      "x": 9301.5,
+      "z": -4225,
+      "r": 11.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE2",
+      "name": "Basque",
+      "lv": 45,
+      "x": 9320.5,
+      "z": -4397.5,
+      "r": 35.5,
+      "n": 9,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE2",
+      "name": "Basque",
+      "lv": 45,
+      "x": 9361.5,
+      "z": -4334,
+      "r": 32,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE3",
+      "name": "Lumping Basque",
+      "lv": 46,
+      "x": 9416,
+      "z": -4400,
+      "r": 24,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE3",
+      "name": "Lumping Basque",
+      "lv": 46,
+      "x": 9405,
+      "z": -4362.5,
+      "r": 32.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE3",
+      "name": "Lumping Basque",
+      "lv": 46,
+      "x": 9453,
+      "z": -4495,
+      "r": 31,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BASQUE4",
+      "name": "Giant Basque",
+      "lv": 49,
+      "x": 9411.5,
+      "z": -4442.5,
+      "r": 22.5,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_HOPPRE1",
+      "name": "Small Hoppre",
+      "lv": 75,
+      "x": 2920.5,
+      "z": -4752,
+      "r": 66.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE1",
+      "name": "Small Hoppre",
+      "lv": 75,
+      "x": 2974,
+      "z": -4646.5,
+      "r": 65.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_HOPPRE1",
+      "name": "Small Hoppre",
+      "lv": 75,
+      "x": 2815,
+      "z": -4664,
+      "r": 35,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE1",
+      "name": "Small Nuctuvehicle",
+      "lv": 57,
+      "x": 3490,
+      "z": -4782,
+      "r": 23,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE1",
+      "name": "Small Nuctuvehicle",
+      "lv": 57,
+      "x": 3453.5,
+      "z": -4688.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE1",
+      "name": "Small Nuctuvehicle",
+      "lv": 57,
+      "x": 3390.5,
+      "z": -4787,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE1",
+      "name": "Small Nuctuvehicle",
+      "lv": 57,
+      "x": 3389.5,
+      "z": -4881.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE1",
+      "name": "Small Nuctuvehicle",
+      "lv": 57,
+      "x": 3489.5,
+      "z": -4879,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE2",
+      "name": "Nuctuvehicle",
+      "lv": 57,
+      "x": 3389,
+      "z": -4788,
+      "r": 19,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE2",
+      "name": "Nuctuvehicle",
+      "lv": 57,
+      "x": 3489.5,
+      "z": -4782.5,
+      "r": 23.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE2",
+      "name": "Nuctuvehicle",
+      "lv": 57,
+      "x": 3454,
+      "z": -4687,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE2",
+      "name": "Nuctuvehicle",
+      "lv": 57,
+      "x": 3389,
+      "z": -4880,
+      "r": 21,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE2",
+      "name": "Nuctuvehicle",
+      "lv": 57,
+      "x": 3490,
+      "z": -4878.5,
+      "r": 19,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE3",
+      "name": "Captain Nuctuvehicle",
+      "lv": 58,
+      "x": 3388.5,
+      "z": -4880.5,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE3",
+      "name": "Captain Nuctuvehicle",
+      "lv": 58,
+      "x": 3490,
+      "z": -4781,
+      "r": 24,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE3",
+      "name": "Captain Nuctuvehicle",
+      "lv": 58,
+      "x": 3454.5,
+      "z": -4686.5,
+      "r": 20.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE3",
+      "name": "Captain Nuctuvehicle",
+      "lv": 58,
+      "x": 3388,
+      "z": -4788,
+      "r": 20,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE3",
+      "name": "Captain Nuctuvehicle",
+      "lv": 58,
+      "x": 3490.5,
+      "z": -4879,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_NUCTUVEHICLE4",
+      "name": "Giant Nuctuvehicle",
+      "lv": 61,
+      "x": 3439,
+      "z": -4827,
+      "r": 75,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RISEM1",
+      "name": "Small Risem",
+      "lv": 59,
+      "x": 3324.5,
+      "z": -4781.5,
+      "r": 18.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM1",
+      "name": "Small Risem",
+      "lv": 59,
+      "x": 3234.5,
+      "z": -4717.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM1",
+      "name": "Small Risem",
+      "lv": 59,
+      "x": 3162.5,
+      "z": -4712,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM1",
+      "name": "Small Risem",
+      "lv": 59,
+      "x": 3290,
+      "z": -4841.5,
+      "r": 18,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM1",
+      "name": "Small Risem",
+      "lv": 59,
+      "x": 3312.5,
+      "z": -4900.5,
+      "r": 17.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM1",
+      "name": "Small Risem",
+      "lv": 59,
+      "x": 3205.5,
+      "z": -4809.5,
+      "r": 21.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM2",
+      "name": "Risem",
+      "lv": 59,
+      "x": 3233.5,
+      "z": -4717.5,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM2",
+      "name": "Risem",
+      "lv": 59,
+      "x": 3322,
+      "z": -4782.5,
+      "r": 18,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM2",
+      "name": "Risem",
+      "lv": 59,
+      "x": 3161,
+      "z": -4711.5,
+      "r": 21,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM2",
+      "name": "Risem",
+      "lv": 59,
+      "x": 3292,
+      "z": -4841,
+      "r": 18,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM2",
+      "name": "Risem",
+      "lv": 59,
+      "x": 3311.5,
+      "z": -4899.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM2",
+      "name": "Risem",
+      "lv": 59,
+      "x": 3205,
+      "z": -4809.5,
+      "r": 21,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM3",
+      "name": "Captain Risem",
+      "lv": 60,
+      "x": 3234,
+      "z": -4716.5,
+      "r": 20,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM3",
+      "name": "Captain Risem",
+      "lv": 60,
+      "x": 3322,
+      "z": -4780,
+      "r": 18,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM3",
+      "name": "Captain Risem",
+      "lv": 60,
+      "x": 3161.5,
+      "z": -4712,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM3",
+      "name": "Captain Risem",
+      "lv": 60,
+      "x": 3293,
+      "z": -4841.5,
+      "r": 18,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM3",
+      "name": "Captain Risem",
+      "lv": 60,
+      "x": 3311.5,
+      "z": -4899,
+      "r": 17.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM3",
+      "name": "Captain Risem",
+      "lv": 60,
+      "x": 3204.5,
+      "z": -4808,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_RISEM4",
+      "name": "Giant Risem",
+      "lv": 63,
+      "x": 3261,
+      "z": -4791.5,
+      "r": 75,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3575,
+      "z": -4598.5,
+      "r": 23,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3560.5,
+      "z": -4825,
+      "r": 20,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3575.5,
+      "z": -4598.5,
+      "r": 21.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3560.5,
+      "z": -4826.5,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3562,
+      "z": -4824,
+      "r": 20,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3703.5,
+      "z": -4748,
+      "r": 20.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3692,
+      "z": -4673.5,
+      "r": 22,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3712,
+      "z": -4817.5,
+      "r": 25,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3764,
+      "z": -4880,
+      "r": 22,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3694,
+      "z": -4872.5,
+      "r": 21,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER1",
+      "name": "Small Zombiger",
+      "lv": 55,
+      "x": 3629.5,
+      "z": -4823,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3712,
+      "z": -4817,
+      "r": 25,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3690.5,
+      "z": -4673.5,
+      "r": 21.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3704.5,
+      "z": -4749.5,
+      "r": 22.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3764,
+      "z": -4879.5,
+      "r": 21,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3694,
+      "z": -4872,
+      "r": 19,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER2",
+      "name": "Zombiger",
+      "lv": 55,
+      "x": 3630.5,
+      "z": -4823.5,
+      "r": 19.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3764,
+      "z": -4878.5,
+      "r": 23,
+      "n": 12,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3630.5,
+      "z": -4823,
+      "r": 20.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3692.5,
+      "z": -4673.5,
+      "r": 22.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3704.5,
+      "z": -4749.5,
+      "r": 21.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3711.5,
+      "z": -4817.5,
+      "r": 25.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER3",
+      "name": "Captain Zombiger",
+      "lv": 56,
+      "x": 3693.5,
+      "z": -4871.5,
+      "r": 19.5,
+      "n": 1,
+      "boss": false
+    },
+    {
+      "mi": "MI_ZOMBIGER4",
+      "name": "Giant Zombiger",
+      "lv": 59,
+      "x": 3667,
+      "z": -4816,
+      "r": 86,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_NPC_AUGOO01",
+      "name": "Augu",
+      "lv": 85,
+      "x": 16369.5,
+      "z": -16391,
+      "r": 56.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO01",
+      "name": "Augu",
+      "lv": 85,
+      "x": 16201.5,
+      "z": -16208.5,
+      "r": 76.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO01",
+      "name": "Augu",
+      "lv": 85,
+      "x": 16259,
+      "z": -16340.5,
+      "r": 55,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16298,
+      "z": -16187,
+      "r": 86,
+      "n": 45,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16428,
+      "z": -16180.5,
+      "r": 74.5,
+      "n": 50,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO02",
+      "name": "Mutant Augu",
+      "lv": 91,
+      "x": 16803,
+      "z": -16335.5,
+      "r": 92,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO02",
+      "name": "Mutant Augu",
+      "lv": 91,
+      "x": 16615.5,
+      "z": -16338.5,
+      "r": 85.5,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO01",
+      "name": "Augu",
+      "lv": 85,
+      "x": 16477,
+      "z": -16339,
+      "r": 85,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16539,
+      "z": -16158,
+      "r": 126,
+      "n": 50,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16653,
+      "z": -16074.5,
+      "r": 85,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16724.5,
+      "z": -16013,
+      "r": 83,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16777.5,
+      "z": -16014,
+      "r": 83,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH01",
+      "name": "Mammoth",
+      "lv": 109,
+      "x": 16818.5,
+      "z": -16032.5,
+      "r": 102.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 16636,
+      "z": -16195,
+      "r": 92,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 16759,
+      "z": -16185,
+      "r": 89,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 16928,
+      "z": -16208,
+      "r": 103,
+      "n": 50,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 16918.5,
+      "z": -16066.5,
+      "r": 80.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 17084,
+      "z": -16192,
+      "r": 78,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 17221.5,
+      "z": -16313,
+      "r": 115,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_MAMMOTH02",
+      "name": "Cannibal Mammoth",
+      "lv": 115,
+      "x": 17166.5,
+      "z": -16182,
+      "r": 99,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16141,
+      "z": -16811.5,
+      "r": 56.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16211,
+      "z": -16811,
+      "r": 57,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16335,
+      "z": -16787,
+      "r": 93,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16335.5,
+      "z": -16845.5,
+      "r": 56.5,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16260.5,
+      "z": -16715.5,
+      "r": 36.5,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16360,
+      "z": -16631,
+      "r": 67,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI01",
+      "name": "Yetti",
+      "lv": 73,
+      "x": 16925,
+      "z": -16744,
+      "r": 65,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI01",
+      "name": "Yetti",
+      "lv": 73,
+      "x": 16704,
+      "z": -16745,
+      "r": 60,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI01",
+      "name": "Yetti",
+      "lv": 73,
+      "x": 16807.5,
+      "z": -16745,
+      "r": 61,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 16672,
+      "z": -16885.5,
+      "r": 69.5,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 16758.5,
+      "z": -16884.5,
+      "r": 68.5,
+      "n": 20,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 16851.5,
+      "z": -16865.5,
+      "r": 56.5,
+      "n": 25,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 16571,
+      "z": -16759,
+      "r": 74,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16412.5,
+      "z": -16716,
+      "r": 72.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING01",
+      "name": "Ghost of the Forgotten Prince",
+      "lv": 97,
+      "x": 16468.5,
+      "z": -16821,
+      "r": 60,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO02",
+      "name": "Mutant Augu",
+      "lv": 91,
+      "x": 16712,
+      "z": -16457.5,
+      "r": 66,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO02",
+      "name": "Mutant Augu",
+      "lv": 91,
+      "x": 16841.5,
+      "z": -16450,
+      "r": 65,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO01",
+      "name": "Augu",
+      "lv": 85,
+      "x": 16379,
+      "z": -16514,
+      "r": 68,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO01",
+      "name": "Augu",
+      "lv": 85,
+      "x": 16482.5,
+      "z": -16477,
+      "r": 52.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI01",
+      "name": "Yetti",
+      "lv": 73,
+      "x": 17017,
+      "z": -16660.5,
+      "r": 89,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI01",
+      "name": "Yetti",
+      "lv": 73,
+      "x": 17043.5,
+      "z": -16755,
+      "r": 70,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 17010,
+      "z": -16841,
+      "r": 99,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 17059,
+      "z": -16611,
+      "r": 56,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_AUGOO02",
+      "name": "Mutant Augu",
+      "lv": 91,
+      "x": 16957.5,
+      "z": -16418.5,
+      "r": 70.5,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16211,
+      "z": -17095,
+      "r": 63,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16322,
+      "z": -17038,
+      "r": 68,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16276.5,
+      "z": -16911,
+      "r": 109.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16336,
+      "z": -17149,
+      "r": 42,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 16679,
+      "z": -16984,
+      "r": 80,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_YETI02",
+      "name": "Mutant Yetti",
+      "lv": 79,
+      "x": 16561,
+      "z": -16923,
+      "r": 90,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16461,
+      "z": -17077,
+      "r": 67,
+      "n": 30,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16454.5,
+      "z": -16961.5,
+      "r": 62.5,
+      "n": 35,
+      "boss": false
+    },
+    {
+      "mi": "MI_NPC_SADKING02",
+      "name": "Ghost of the Forgotten King",
+      "lv": 103,
+      "x": 16447,
+      "z": -17161.5,
+      "r": 66,
+      "n": 40,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13181.5,
+      "z": -13245,
+      "r": 23.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13176.5,
+      "z": -13214,
+      "r": 17.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13221,
+      "z": -13230,
+      "r": 23,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13247,
+      "z": -13235.5,
+      "r": 30.5,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA01",
+      "name": "Prismatic Cobra",
+      "lv": 70,
+      "x": 12942,
+      "z": -13294,
+      "r": 20,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA01",
+      "name": "Prismatic Cobra",
+      "lv": 70,
+      "x": 12903.5,
+      "z": -13271,
+      "r": 23,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA01",
+      "name": "Prismatic Cobra",
+      "lv": 70,
+      "x": 12822,
+      "z": -13272,
+      "r": 22,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA01",
+      "name": "Prismatic Cobra",
+      "lv": 70,
+      "x": 12866.5,
+      "z": -13265.5,
+      "r": 33.5,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA01",
+      "name": "Prismatic Cobra",
+      "lv": 70,
+      "x": 12830,
+      "z": -13233,
+      "r": 22,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA01",
+      "name": "Prismatic Cobra",
+      "lv": 70,
+      "x": 12977,
+      "z": -13298,
+      "r": 15,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13019,
+      "z": -13299,
+      "r": 21,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13065.5,
+      "z": -13299.5,
+      "r": 29.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13116,
+      "z": -13256.5,
+      "r": 18.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13140,
+      "z": -13242,
+      "r": 20,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13281,
+      "z": -13262,
+      "r": 16,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13265.5,
+      "z": -13240,
+      "r": 24,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13304.5,
+      "z": -13269,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13303.5,
+      "z": -13247,
+      "r": 11.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13191.5,
+      "z": -13150.5,
+      "r": 15.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13216.5,
+      "z": -13119.5,
+      "r": 23.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON01",
+      "name": "Tanuki Enforcer",
+      "lv": 72,
+      "x": 13239.5,
+      "z": -13147.5,
+      "r": 14.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13335.5,
+      "z": -13261.5,
+      "r": 14.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13360.5,
+      "z": -13283,
+      "r": 13.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13386.5,
+      "z": -13303.5,
+      "r": 16.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13411.5,
+      "z": -13282,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13431.5,
+      "z": -13295.5,
+      "r": 12.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13088.5,
+      "z": -13347.5,
+      "r": 16.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13159.5,
+      "z": -13397.5,
+      "r": 40.5,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13127,
+      "z": -13387,
+      "r": 39,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13088,
+      "z": -13381,
+      "r": 17,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA01",
+      "name": "Twinstrike Cobra",
+      "lv": 71,
+      "x": 13182.5,
+      "z": -13383,
+      "r": 13,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13426,
+      "z": -13331.5,
+      "r": 14,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13412,
+      "z": -13318.5,
+      "r": 15,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON01",
+      "name": "Tanuki Protector",
+      "lv": 73,
+      "x": 13464,
+      "z": -13312,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13481.5,
+      "z": -13360,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13499.5,
+      "z": -13363.5,
+      "r": 12.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13513.5,
+      "z": -13382,
+      "r": 13.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13498,
+      "z": -13354.5,
+      "r": 18.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13484.5,
+      "z": -13339.5,
+      "r": 11.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13538.5,
+      "z": -13375.5,
+      "r": 10,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13553.5,
+      "z": -13405.5,
+      "r": 13.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13552.5,
+      "z": -13428,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13575,
+      "z": -13420,
+      "r": 18,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13533.5,
+      "z": -13398,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13597.5,
+      "z": -13431,
+      "r": 15,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13597.5,
+      "z": -13455.5,
+      "r": 11.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13621.5,
+      "z": -13451,
+      "r": 15,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13604,
+      "z": -13484,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13634.5,
+      "z": -13501,
+      "r": 10.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13627,
+      "z": -13480.5,
+      "r": 13,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13606,
+      "z": -13521.5,
+      "r": 14,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13618,
+      "z": -13546.5,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ01",
+      "name": "Wildwood Stalker",
+      "lv": 74,
+      "x": 13590.5,
+      "z": -13547,
+      "r": 10.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13550,
+      "z": -13560.5,
+      "r": 20.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13571.5,
+      "z": -13558,
+      "r": 15,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA01",
+      "name": "Wildwood Shaman",
+      "lv": 75,
+      "x": 13606,
+      "z": -13546.5,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE01",
+      "name": "Water Totem pole",
+      "lv": 65,
+      "x": 12801,
+      "z": -13241,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE02",
+      "name": "Wind Totem pole",
+      "lv": 65,
+      "x": 13177,
+      "z": -13409,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE03",
+      "name": "Earth Totem pole",
+      "lv": 65,
+      "x": 13214,
+      "z": -13138,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE04",
+      "name": "Fire Totem pole",
+      "lv": 65,
+      "x": 13535,
+      "z": -13560,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BESIBIGFOOT01",
+      "name": "Beast King Khan",
+      "lv": 80,
+      "x": 13414,
+      "z": -13793,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BIGCOBRA02",
+      "name": "Mythic Prismatic Cobra",
+      "lv": 70,
+      "x": 16016.5,
+      "z": -13293.5,
+      "r": 13.5,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA02",
+      "name": "Mythic Prismatic Cobra",
+      "lv": 70,
+      "x": 15975.5,
+      "z": -13271,
+      "r": 21,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA02",
+      "name": "Mythic Prismatic Cobra",
+      "lv": 70,
+      "x": 15939.5,
+      "z": -13265,
+      "r": 32,
+      "n": 10,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA02",
+      "name": "Mythic Prismatic Cobra",
+      "lv": 70,
+      "x": 15902,
+      "z": -13232,
+      "r": 23,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA02",
+      "name": "Mythic Prismatic Cobra",
+      "lv": 70,
+      "x": 15896.5,
+      "z": -13274.5,
+      "r": 21.5,
+      "n": 6,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGCOBRA02",
+      "name": "Mythic Prismatic Cobra",
+      "lv": 70,
+      "x": 16049.5,
+      "z": -13299,
+      "r": 15.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16092.5,
+      "z": -13299,
+      "r": 21.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16138.5,
+      "z": -13300.5,
+      "r": 29.5,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16189,
+      "z": -13254.5,
+      "r": 17.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16213,
+      "z": -13242,
+      "r": 20,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16254,
+      "z": -13244.5,
+      "r": 24,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16249,
+      "z": -13215,
+      "r": 17,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16293.5,
+      "z": -13230,
+      "r": 24,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16318.5,
+      "z": -13235.5,
+      "r": 29.5,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16337.5,
+      "z": -13241.5,
+      "r": 23.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16353.5,
+      "z": -13260.5,
+      "r": 15.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16378,
+      "z": -13269,
+      "r": 13,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16374.5,
+      "z": -13247,
+      "r": 11,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16267,
+      "z": -13149,
+      "r": 15,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16314,
+      "z": -13150,
+      "r": 17,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGRACCOON02",
+      "name": "Elite Tanuki Enforcer",
+      "lv": 72,
+      "x": 16291,
+      "z": -13122,
+      "r": 21,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16408.5,
+      "z": -13262.5,
+      "r": 15.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16430.5,
+      "z": -13282.5,
+      "r": 13.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16457,
+      "z": -13302,
+      "r": 15,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16484.5,
+      "z": -13283,
+      "r": 13.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16503,
+      "z": -13294.5,
+      "r": 13,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16537.5,
+      "z": -13313.5,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16162,
+      "z": -13348.5,
+      "r": 17.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16163,
+      "z": -13382,
+      "r": 16,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16199.5,
+      "z": -13387,
+      "r": 37,
+      "n": 8,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16231,
+      "z": -13398,
+      "r": 39,
+      "n": 7,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGVARIETYCOBRA02",
+      "name": "Mythic Twinstrike Cobra",
+      "lv": 71,
+      "x": 16254.5,
+      "z": -13383.5,
+      "r": 13.5,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16484,
+      "z": -13319,
+      "r": 14,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_BIGSOLDIERRACCOON02",
+      "name": "Elite Tanuki Protector",
+      "lv": 73,
+      "x": 16500.5,
+      "z": -13330.5,
+      "r": 13.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16556.5,
+      "z": -13339.5,
+      "r": 11.5,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16552,
+      "z": -13362.5,
+      "r": 10,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16570.5,
+      "z": -13363.5,
+      "r": 13.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16568,
+      "z": -13355,
+      "r": 19,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16585,
+      "z": -13383.5,
+      "r": 13,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16605.5,
+      "z": -13399,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16610.5,
+      "z": -13374,
+      "r": 10.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16645,
+      "z": -13419,
+      "r": 17,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16625.5,
+      "z": -13404,
+      "r": 12,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16625,
+      "z": -13431,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16669.5,
+      "z": -13431,
+      "r": 13,
+      "n": 3,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16698.5,
+      "z": -13482.5,
+      "r": 14.5,
+      "n": 4,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16693.5,
+      "z": -13452.5,
+      "r": 13.5,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16669.5,
+      "z": -13455.5,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16676,
+      "z": -13484,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16707,
+      "z": -13500.5,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16681,
+      "z": -13522,
+      "r": 14,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16690.5,
+      "z": -13547,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SOLDIERTANGZ02",
+      "name": "Mythic Wildwood Stalker",
+      "lv": 74,
+      "x": 16663,
+      "z": -13546,
+      "r": 11,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16623.5,
+      "z": -13562,
+      "r": 19,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16643,
+      "z": -13558,
+      "r": 15,
+      "n": 5,
+      "boss": false
+    },
+    {
+      "mi": "MI_SHAMANWUTANGKA02",
+      "name": "Shadowy Wildwood Shaman",
+      "lv": 75,
+      "x": 16679,
+      "z": -13546,
+      "r": 10,
+      "n": 2,
+      "boss": false
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE01",
+      "name": "Water Totem pole",
+      "lv": 65,
+      "x": 15873,
+      "z": -13241,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE02",
+      "name": "Wind Totem pole",
+      "lv": 65,
+      "x": 16249,
+      "z": -13409,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE03",
+      "name": "Earth Totem pole",
+      "lv": 65,
+      "x": 16286,
+      "z": -13138,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_RUSTIACRASHGATE04",
+      "name": "Fire Totem pole",
+      "lv": 65,
+      "x": 16607,
+      "z": -13560,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    },
+    {
+      "mi": "MI_BESIBIGFOOT02",
+      "name": "Beast Overlord Khan",
+      "lv": 80,
+      "x": 16486,
+      "z": -13793,
+      "r": 10,
+      "n": 1,
+      "boss": true
+    }
+  ],
+  "regions": [
+    {
+      "name": "Mars Mine",
+      "x": 7618,
+      "z": -4278,
+      "town": false
+    },
+    {
+      "name": "Altar of Ranger",
+      "x": 3170.5,
+      "z": -3644.5,
+      "town": false
+    },
+    {
+      "name": "Altar of Ellementor",
+      "x": 3962,
+      "z": -3513,
+      "town": false
+    },
+    {
+      "name": "Altar of Knight",
+      "x": 3008,
+      "z": -2932,
+      "town": false
+    },
+    {
+      "name": "Altar of Blade",
+      "x": 3528,
+      "z": -2792,
+      "town": false
+    },
+    {
+      "name": "The South of Leren Mountains - Altar of Dreadpet",
+      "x": 6840,
+      "z": -3132,
+      "town": false
+    },
+    {
+      "name": "Saint Morning - The Madrigal History Society.",
+      "x": 8352,
+      "z": -3980,
+      "town": true
+    },
+    {
+      "name": "Altar of Psykeeper",
+      "x": 2520,
+      "z": -4602.5,
+      "town": false
+    },
+    {
+      "name": "The Center for Guild Combat..",
+      "x": 6993,
+      "z": -3329.5,
+      "town": true
+    },
+    {
+      "name": "The Savage Wilds Dungeon Entrance",
+      "x": 4920,
+      "z": -3465,
+      "town": false
+    },
+    {
+      "name": "Altar of Billposter",
+      "x": 3525.5,
+      "z": -3545.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Room of Guardian",
+      "x": 3214.5,
+      "z": -2526,
+      "town": false
+    },
+    {
+      "name": "Altar of Jester",
+      "x": 2787,
+      "z": -2884.5,
+      "town": false
+    },
+    {
+      "name": "Altar of Ringmaster",
+      "x": 3270,
+      "z": -4250.5,
+      "town": false
+    },
+    {
+      "name": "Kion Soldiers",
+      "x": 7201,
+      "z": -3228.5,
+      "town": false
+    },
+    {
+      "name": "Saint City - Ancient Document Office",
+      "x": 8442,
+      "z": -3545.5,
+      "town": false
+    },
+    {
+      "name": "Saint City - Little Theater of Pepoview",
+      "x": 8397.5,
+      "z": -3658,
+      "town": false
+    },
+    {
+      "name": "Saint Morning - Altar of Violet",
+      "x": 8230.5,
+      "z": -3127,
+      "town": false
+    },
+    {
+      "name": "The Wilds Dungeon Entrance",
+      "x": 5270,
+      "z": -4713,
+      "town": false
+    },
+    {
+      "name": "Saint Morning square",
+      "x": 8533.5,
+      "z": -3608.5,
+      "town": true
+    },
+    {
+      "name": "Darkon 3 - House of Laola",
+      "x": 3010.5,
+      "z": -3963.5,
+      "town": false
+    },
+    {
+      "name": "Madren Town - Altar of Dreadpet",
+      "x": 7454,
+      "z": -3672.5,
+      "town": false
+    },
+    {
+      "name": "The Eastern part of the River of Weeping - Altar of Dreadpet",
+      "x": 7743.5,
+      "z": -4074,
+      "town": false
+    },
+    {
+      "name": "The residence in Ludviehill",
+      "x": 7225,
+      "z": -3183,
+      "town": true
+    },
+    {
+      "name": "Lab of Wise-men",
+      "x": 7709,
+      "z": -4256,
+      "town": false
+    },
+    {
+      "name": "Darkon - Altar of Violet",
+      "x": 6164.5,
+      "z": -3808,
+      "town": false
+    },
+    {
+      "name": "Flaris - Altar of Violet",
+      "x": 7945.5,
+      "z": -4347,
+      "town": false
+    },
+    {
+      "name": "Flaris Observatory",
+      "x": 6708.5,
+      "z": -3337.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 2 - The Cage of Clockworks.",
+      "x": 3890,
+      "z": -4238,
+      "town": false
+    },
+    {
+      "name": "Saint Morning - Saint Hall",
+      "x": 8464.5,
+      "z": -3585,
+      "town": true
+    },
+    {
+      "name": "Saint Tree",
+      "x": 8636.5,
+      "z": -3571,
+      "town": false
+    },
+    {
+      "name": "Billeting Place of High-Dwarpets",
+      "x": 6995,
+      "z": -3872.5,
+      "town": false
+    },
+    {
+      "name": "Fountain of Dead Person",
+      "x": 7665.5,
+      "z": -4215.5,
+      "town": false
+    },
+    {
+      "name": "The Entrance to Fantasy Desert",
+      "x": 8610.5,
+      "z": -2216,
+      "town": false
+    },
+    {
+      "name": "Northern River of Weeping",
+      "x": 7114.5,
+      "z": -4173.5,
+      "town": false
+    },
+    {
+      "name": "Collecting Area",
+      "x": 8670.5,
+      "z": -3742,
+      "town": false
+    },
+    {
+      "name": "Collecting Area",
+      "x": 3884.5,
+      "z": -4712.5,
+      "town": false
+    },
+    {
+      "name": "Collecting Area",
+      "x": 6920,
+      "z": -3069,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Hideout of Hanoyan",
+      "x": 5208,
+      "z": -3387.5,
+      "town": false
+    },
+    {
+      "name": "Flarine - Northern Flarine",
+      "x": 6961,
+      "z": -3334.5,
+      "town": true
+    },
+    {
+      "name": "Eastern River of Weeping",
+      "x": 7720,
+      "z": -4028,
+      "town": false
+    },
+    {
+      "name": "Middle of River of Weeping",
+      "x": 7356,
+      "z": -3988,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Deadwallderness",
+      "x": 3891,
+      "z": -3170.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 2 - Eienble Cave",
+      "x": 4904,
+      "z": -4217,
+      "town": false
+    },
+    {
+      "name": "Darkon 2 - Eienble Cave",
+      "x": 4176,
+      "z": -4388.5,
+      "town": false
+    },
+    {
+      "name": "Plain of Bubble",
+      "x": 6634.5,
+      "z": -3629.5,
+      "town": false
+    },
+    {
+      "name": "The South of Leren Mountains",
+      "x": 6750.5,
+      "z": -3070.5,
+      "town": false
+    },
+    {
+      "name": "Flarine - Eastern Flarine",
+      "x": 7157.5,
+      "z": -3229.5,
+      "town": true
+    },
+    {
+      "name": "Flarine - Central Flarine",
+      "x": 6971.5,
+      "z": -3234.5,
+      "town": true
+    },
+    {
+      "name": "Darkon 2 - Eienble Cave",
+      "x": 3563.5,
+      "z": -4614,
+      "town": false
+    },
+    {
+      "name": "Fantasy Desert",
+      "x": 8150,
+      "z": -1967,
+      "town": false
+    },
+    {
+      "name": "Saint Morning - Station",
+      "x": 8428,
+      "z": -4023.5,
+      "town": true
+    },
+    {
+      "name": "Madren Town",
+      "x": 7346.5,
+      "z": -3657,
+      "town": false
+    },
+    {
+      "name": "Pumpkin Town - The Home of Mr. Pumpkin.",
+      "x": 8205.5,
+      "z": -2742.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Erons Factory 1",
+      "x": 5578,
+      "z": -3892.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Guardiane",
+      "x": 3348,
+      "z": -2367.5,
+      "town": false
+    },
+    {
+      "name": "Central Hillid Mountains",
+      "x": 8961,
+      "z": -2710.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Gouthan Mountains",
+      "x": 5745,
+      "z": -4428.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 2 - Darken",
+      "x": 3836,
+      "z": -4450,
+      "town": true
+    },
+    {
+      "name": "The Middle of Leren Mountains",
+      "x": 6542,
+      "z": -3397,
+      "town": false
+    },
+    {
+      "name": "Northern Hillid Mountains",
+      "x": 8910,
+      "z": -3298,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Middle Cendil",
+      "x": 2925,
+      "z": -4255,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Arians",
+      "x": 3564,
+      "z": -3293.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Western Cendil",
+      "x": 2565.5,
+      "z": -4247,
+      "town": false
+    },
+    {
+      "name": "Northern Leren Mountains",
+      "x": 7633.5,
+      "z": -4345,
+      "town": false
+    },
+    {
+      "name": "Tableland of Silence - Gravity Disorder Area",
+      "x": 8354.5,
+      "z": -2356.5,
+      "town": false
+    },
+    {
+      "name": "Haunt of Nyangnyang",
+      "x": 7376.5,
+      "z": -4130.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Khipra",
+      "x": 6014.5,
+      "z": -3864,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Gouthan Mountains",
+      "x": 6019,
+      "z": -4345.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Eastern Cendil",
+      "x": 3283.5,
+      "z": -4270.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Erons Factory 2",
+      "x": 5567.5,
+      "z": -3415.5,
+      "town": false
+    },
+    {
+      "name": "The Middle of Leren Mountains",
+      "x": 6872.5,
+      "z": -4054,
+      "town": false
+    },
+    {
+      "name": "Hill of Shade",
+      "x": 7936.5,
+      "z": -2617.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Brekin",
+      "x": 3392.5,
+      "z": -2814.5,
+      "town": false
+    },
+    {
+      "name": "Saint Morning",
+      "x": 8416.5,
+      "z": -3737.5,
+      "town": true
+    },
+    {
+      "name": "Southern Hillid Mountains",
+      "x": 8471.5,
+      "z": -2326.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 1 - Khipra",
+      "x": 5248,
+      "z": -4016.5,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Heret",
+      "x": 2664,
+      "z": -4641.5,
+      "town": false
+    },
+    {
+      "name": "The Garden of Rhisis",
+      "x": 9160.5,
+      "z": -4096,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Magmient",
+      "x": 2820,
+      "z": -2755,
+      "town": false
+    },
+    {
+      "name": "Darkon 3 - Aniceknight",
+      "x": 2941,
+      "z": -3720,
+      "town": false
+    },
+    {
+      "name": "Azria",
+      "x": 16640,
+      "z": -16640,
+      "town": false
+    },
+    {
+      "name": "The Wilds",
+      "x": 13568,
+      "z": -13568,
+      "town": false
+    },
+    {
+      "name": "The Savage Wilds",
+      "x": 16640,
+      "z": -13568,
+      "town": false
+    },
+    {
+      "name": "Guild Siege Arena",
+      "x": 18688,
+      "z": -12544,
+      "town": false
+    }
+  ],
+  "lodestars": [
+    {
+      "name": "Lodestar (saintmorning)",
+      "x": 8258.6,
+      "z": -2536.3
+    },
+    {
+      "name": "Lodestar (flaris)",
+      "x": 7143.9,
+      "z": -2974.8
+    },
+    {
+      "name": "Lodestar (saintmorning)",
+      "x": 7846,
+      "z": -2631.7
+    },
+    {
+      "name": "Lodestar (flaris)",
+      "x": 6968.4,
+      "z": -3328.9
+    },
+    {
+      "name": "Lodestar (darkon1)",
+      "x": 5583.2,
+      "z": -3891.4
+    },
+    {
+      "name": "Lodestar (flaris)",
+      "x": 6590.1,
+      "z": -3811.9
+    },
+    {
+      "name": "Lodestar (saintmorning)",
+      "x": 8470.6,
+      "z": -3635.8
+    },
+    {
+      "name": "Lodestar (darkon)",
+      "x": 3808.4,
+      "z": -4455.2
+    },
+    {
+      "name": "Lodestar (darkon)",
+      "x": 5497.1,
+      "z": -4356
+    }
+  ]
+}

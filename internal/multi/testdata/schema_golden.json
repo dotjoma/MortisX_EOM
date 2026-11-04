@@ -1,0 +1,49 @@
+{
+  "modules": [
+    {
+      "tab": "automation",
+      "id": "farm",
+      "title": "Farm",
+      "order": 1,
+      "icon": "cpu",
+      "fields": [
+        {
+          "key": "automation.farm.mode",
+          "kind": "setting",
+          "type": "",
+          "risk": "low",
+          "scope": "AllSelected",
+          "sensitive": false,
+          "label": "Mode"
+        },
+        {
+          "key": "automation.farm.start",
+          "kind": "command",
+          "type": "",
+          "risk": "low",
+          "scope": "AllSelected",
+          "sensitive": false,
+          "label": "Start"
+        },
+        {
+          "key": "automation.farm.buyList",
+          "kind": "collection",
+          "type": "",
+          "risk": "low",
+          "scope": "AllSelected",
+          "sensitive": false,
+          "label": "BuyList"
+        },
+        {
+          "key": "automation.farm.stats",
+          "kind": "reader",
+          "type": "",
+          "risk": "",
+          "scope": "FocusedOnly",
+          "sensitive": false,
+          "label": "Stats"
+        }
+      ]
+    }
+  ]
+}

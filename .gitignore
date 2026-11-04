@@ -1,0 +1,44 @@
+# Node / Vite
+node_modules/
+dist/*
+!dist/.gitkeep
+dist-ssr/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Wails / Go binaries
+build/bin/
+*.exe
+.tmp*
+package.json.md5
+
+# Secrets & Local Configurations
+bot.json
+*.local.json
+
+# SoftEther VPN payloads (supplied locally, not committed)
+third_party/vpn/*.exe
+third_party/vpn/*.se2
+third_party/vpn/*.cab
+third_party/vpn/*.config
+third_party/vpn/*.dat
+third_party/vpn/*.cache
+third_party/vpn/client_log/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Repomix & Audits
+repomix*
+*.xml
+audit/
+madrigal_dump/

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "bot_example_1",
+    "name": "BotOne",
+    "server": "Channel 1",
+    "character_name": "CharacterName",
+    "password": "your_account_password",
+    "status": "disconnected",
+    "status_message": "Disconnected",
+    "stats": {
+      "ping_ms": 0,
+      "played_seconds": 0,
+      "deaths": 0,
+      "zone": "Flarine",
+      "level": 1,
+      "gold": 0,
+      "pos_x": 0,
+      "pos_y": 0,
+      "pos_z": 0,
+      "job": "Vagrant",
+      "hp": 0,
+      "mp": 0,
+      "fp": 0,
+      "str": 15,
+      "sta": 15,
+      "dex": 15,
+      "int": 15,
+      "stat_points": 0,
+      "auto_stat": 0
+    },
+    "preferences": {
+      "bypass_logon": false,
+      "auto_reconnect": false,
+      "auto_accept_party": false,
+      "anti_afk": false,
+      "auto_disconnect_on_gm": false,
+      "invisible": false,
+      "job_config": {
+        "auto_job_change": false,
+        "target_1st_job": "",
+        "target_2nd_job": "",
+        "auto_rebirth": false,
+        "stat_mode": "",
+        "selected_preset": "",
+        "custom_ratio": {
+          "str_pct": 0,
+          "sta_pct": 0,
+          "dex_pct": 0,
+          "int_pct": 0,
+          "cap_stat": "",
+          "cap_value": 0,
+          "then_stat": ""
+        },
+        "auto_equip_starter": false
+      }
+    },
+    "intervals": {
+      "move_sec": 0.235,
+      "attack_sec": 0.15,
+      "loot_sec": 0.1,
+      "skill_sec": 0.2
+    }
+  }
+]
