@@ -67,6 +67,10 @@ Output will be in `build/bin/`.
 Join the discussion or report issues on Discord:
 👉 **[Join Discord](https://discord.gg/jxDdPXSUWw)**
 
+## Contributing
+
+Contributions, bug reports, and suggestions are welcome! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ## License
 
 [MIT](LICENSE)
